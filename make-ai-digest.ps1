@@ -123,8 +123,38 @@ $headers = @{
 }
 
 try {
-    $response = Invoke-RestMethod -Uri $endpoint -Method Post -Headers $headers -Body $bodyBytes -TimeoutSec 240
-} catch {
+    $webRequest = [Net.HttpWebRequest]::Create($endpoint)
+    $webRequest.Method = 'POST'
+    $webRequest.ContentType = $headers['Content-Type']
+    $webRequest.Accept = 'application/json'
+    $webRequest.UserAgent = 'codex-ai-digest'
+    $webRequest.Timeout = 240000
+    $webRequest.ReadWriteTimeout = 240000
+    $webRequest.Headers.Add('Authorization', $headers.Authorization)
+    $webRequest.ContentLength = $bodyBytes.Length
+    $requestStream = $webRequest.GetRequestStream()
+    try {
+        $requestStream.Write($bodyBytes, 0, $bodyBytes.Length)
+    } finally {
+        $requestStream.Close()
+    }
+
+    $webResponse = $webRequest.GetResponse()
+    try {
+        $responseStream = $webResponse.GetResponseStream()
+        $responseBuffer = New-Object IO.MemoryStream
+        try {
+            $responseStream.CopyTo($responseBuffer)
+            $responseText = [Text.Encoding]::UTF8.GetString($responseBuffer.ToArray())
+        } finally {
+            $responseBuffer.Dispose()
+            $responseStream.Dispose()
+        }
+    } finally {
+        $webResponse.Close()
+    }
+    $response = $responseText | ConvertFrom-Json
+} catch [Net.WebException] {
     $status = $null
     if ($_.Exception.Response) { $status = [int]$_.Exception.Response.StatusCode }
     throw ('DeepSeek request failed' + $(if ($status) { ' (HTTP ' + $status + ')' } else { '' }) + ': ' + $_.Exception.Message)
