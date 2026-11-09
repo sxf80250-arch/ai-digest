@@ -1,0 +1,152 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 项目日报 &#183; 2026-10-15</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">AI 项目日报</div>
+    <h1>AI 项目日报 &#183; 2026-10-15</h1>
+    <p class="lead">本期从 220 个候选项目中筛出 12 个，与昨天没有重复。热度榜需要连续两天的快照才有数据（明天起会出现），所以这一期按项目的平均增长速率排序。</p>
+    <nav class="topnav" aria-label="期号导航">
+      <a class="pill" href="index.html">目录</a>
+      <a class="pill " href="2026-10-16.html">上一期 <span class="mono">2026-10-16</span></a>
+      <a class="pill is-hidden" href="#">下一期 <span class="mono"></span></a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<section>
+  <h2>一、给编码 agent 加能力</h2>
+  
+<article class="card">
+  <h3 class="card-title">addyosmani/agent-skills</h3>
+  <div class="badges"><span class="badge stars">总计 106,689 ★</span><span class="badge">241 天</span><span class="badge">JavaScript</span><span class="badge">MIT</span></div>
+  <p class="desc">面向 AI 编码 agent 的&quot;生产级工程技能&quot;合集，把资深工程师的开发习惯沉淀成可复用的技能文件。</p>
+  <p class="why"><strong>为什么值得看</strong>：作者是 Addy Osmani（Google Chrome 团队），内容是工程规范和落地流程，不是玩具级提示词。</p>
+  <p class="signal">外部信号：B 站有中文讲解视频（如「2026 版 Agent Skills 保姆级教程」）。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/addyosmani/agent-skills" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">Panniantong/Agent-Reach</h3>
+  <div class="badges"><span class="badge stars">总计 97,380 ★</span><span class="badge">233 天</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">一条命令行让 agent 读取并搜索 Twitter、Reddit、YouTube、GitHub、B 站和小红书，号称零 API 费用。</p>
+  <p class="why"><strong>为什么值得看</strong>：给 agent 补上&quot;上网的眼睛&quot;，而且覆盖中文平台。以后想让自动化流程去读社交平台上的讨论，这是现成入口。</p>
+  <p class="signal">外部信号：有第三方评论文章，讲的是&quot;互联网并没有给 agent 留出 API&quot;这件事；B 站有介绍视频「28K+ 星的 Agent Reach：给 Agent 装一个互联网工具箱」。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/Panniantong/Agent-Reach" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">Leonxlnx/taste-skill</h3>
+  <div class="badges"><span class="badge stars">总计 96,424 ★</span><span class="badge">237 天</span><span class="badge">JavaScript</span><span class="badge">MIT</span></div>
+  <p class="desc">给编码 agent 装上&quot;审美&quot;：定美术方向、找参考图，再用浏览器实际验收页面，而不是生成千篇一律的 AI 风网页。</p>
+  <p class="why"><strong>为什么值得看</strong>：专治 agent 做前端的通病——功能对但不好看，而且把验收这一步也自动化了。</p>
+  <p class="signal">外部信号：有第三方评测（Taste Skill Review: Anti-Slop Frontend Skill for AI）；B 站有讨论视频「81K 星的项目：装个 Skill，能治好 AI 网页的模板味吗」。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/Leonxlnx/taste-skill" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">farion1231/cc-switch</h3>
+  <div class="badges"><span class="badge stars">总计 144,273 ★</span><span class="badge">436 天</span><span class="badge">Rust</span><span class="badge">MIT</span></div>
+  <p class="desc">跨平台桌面工具，统一管理 Claude Code、Codex、OpenCode、Grok Build 等多个编码 agent，负责配置与切换。</p>
+  <p class="why"><strong>为什么值得看</strong>：同时用两三个编码工具的人，来回切配置是真痛点。它是这一类工具里星标最高的。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/farion1231/cc-switch" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">stablyai/orca</h3>
+  <div class="badges"><span class="badge stars">总计 92,501 ★</span><span class="badge">212 天</span><span class="badge">TypeScript</span><span class="badge">MIT</span></div>
+  <p class="desc">面向&quot;并行 agent 集群&quot;的开发环境：同时驱动多个编码 agent，支持桌面、移动和远程运行时，用你自己的订阅。</p>
+  <p class="why"><strong>为什么值得看</strong>：从一个 agent 变成多个 agent 并行干活，是当前工作流演进的方向，这是专门为它设计的 IDE。</p>
+  <p class="signal">外部信号：有第三方实操长文，记录了把 5 个编码 agent 放到同一张工作台上跑的全过程；B 站命中的多为同名无关内容，未采信。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/stablyai/orca" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+<section>
+  <h2>二、能直接解决具体问题的</h2>
+  
+<article class="card">
+  <h3 class="card-title">koala73/worldmonitor</h3>
+  <div class="badges"><span class="badge stars">总计 88,455 ★</span><span class="badge">279 天</span><span class="badge">TypeScript</span><span class="badge">AGPL-3.0</span></div>
+  <p class="desc">实时全球情报看板：新闻聚合、地缘政治监测、基础设施追踪，收在一个态势感知界面里。</p>
+  <p class="why"><strong>为什么值得看</strong>：和你在做的自动日报同源，但做成了实时看板。它的信源处理和呈现方式值得参考，注意许可证是 AGPL-3.0。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/koala73/worldmonitor" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">calesthio/OpenMontage</h3>
+  <div class="badges"><span class="badge stars">总计 68,281 ★</span><span class="badge">199 天</span><span class="badge">Python</span><span class="badge">AGPL-3.0</span></div>
+  <p class="desc">开源的 agent 视频生产系统：12 条制作流水线、100 多个工具、700 多份技能与制作知识文件，把编码助手变成视频制作台。</p>
+  <p class="why"><strong>为什么值得看</strong>：视频是 AI 落地里最耗人力的一环，它给了一套可复用的流水线。AGPL-3.0，商用前要看清条款。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">career-ops-hq/career-ops</h3>
+  <div class="badges"><span class="badge stars">总计 74,575 ★</span><span class="badge">193 天</span><span class="badge">JavaScript</span><span class="badge">MIT</span></div>
+  <p class="desc">开源求职 agent：扫岗位，按你的简历给每个岗位打 1–5 分，再改出适配筛选系统的简历和求职信，附带面试准备。</p>
+  <p class="why"><strong>为什么值得看</strong>：把投简历这件重复劳动做成流水线，而且先评分再投，避免海投。思路可以平移到其它&quot;筛选 + 定制 + 投递&quot;场景。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/career-ops-hq/career-ops" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">LosaLosSantos/aurelio-finance</h3>
+  <div class="badges"><span class="badge stars">总计 3,370 ★</span><span class="badge">8 天</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">开源个人理财应用，内置 AI 财务顾问：在自己电脑上追踪净值、投资、ETF、现金和负债。</p>
+  <p class="why"><strong>为什么值得看</strong>：8 天前才出现的项目，数据不出本机，是&quot;AI + 具体生活场景&quot;的典型，适合作为自托管应用的参考。</p>
+  <p class="signal">外部信号：有第三方实操文章（在本机跑一个私人 AI 理财顾问）；B 站命中内容与项目无关，未采信。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/LosaLosSantos/aurelio-finance" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">zhuyansen/new-term-radar</h3>
+  <div class="badges"><span class="badge stars">总计 957 ★</span><span class="badge">3 天</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">&quot;新词雷达&quot;：每天从 X、Hugging Face、GitHub 和站点地图里抓新出现的模型名、产品名和仓库名，比关键词工具更早发现。</p>
+  <p class="why"><strong>为什么值得看</strong>：三天前刚出现的项目，但它做的事和你的需求完全同源——尽早发现新东西。可以把它当成我们日报的补充信源。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/zhuyansen/new-term-radar" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+<section>
+  <h2>三、学习与参考</h2>
+  
+<article class="card">
+  <h3 class="card-title">msitarzewski/agency-agents</h3>
+  <div class="badges"><span class="badge stars">总计 160,103 ★</span><span class="badge">367 天</span><span class="badge">Shell</span><span class="badge">MIT</span></div>
+  <p class="desc">一整套&quot;AI 代理公司&quot;的角色库：前端专家、社群运营、创意注入、现实检查员……每个角色都有职责说明和流程。</p>
+  <p class="why"><strong>为什么值得看</strong>：想看多角色 agent 怎么分工协作，这是一份现成的角色清单，可以直接照搬其中几个。</p>
+  <p class="signal">外部信号：有第三方上手指南（A hands-on guide to The Agency）；B 站有中文上手视频「给编程装上&#39;梦之队&#39;」。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/msitarzewski/agency-agents" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">rohitg00/ai-engineering-from-scratch</h3>
+  <div class="badges"><span class="badge stars">总计 69,135 ★</span><span class="badge">210 天</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">&quot;从零学 AI 工程&quot;的课程式仓库，强调学完就动手做出来。</p>
+  <p class="why"><strong>为什么值得看</strong>：适合当作自己或团队的系统入门路径，从深度学习一直覆盖到 agent。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+</main>
+<footer class="wrap foot">
+  <p>数据来自 GitHub 官方接口 · 每期按星标平均增速排序 · 每天 08:00 自动生成</p>
+</footer>
+</body>
+</html>

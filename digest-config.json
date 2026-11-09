@@ -1,0 +1,43 @@
+{
+  "_readme": [
+    "Daily AI digest settings. Edit this file to change what gets collected and pushed.",
+    "queries: GitHub search queries. Placeholders: {pushedFrom} {newFrom} {floor} {emergingFloor}",
+    "tierMinStars: organization-owned repos and individual-owned repos use different floors,",
+    "  so personal projects are not buried by big-company repos and vice versa.",
+    "velocity: heat = stars gained in the last shortHours (full weight) plus the block before it (decay weight).",
+    "reporting.resurface*: a repo already pushed can come back when it gains a lot recently",
+    "  or publishes a release after the last time it was pushed."
+  ],
+  "perPage": 50,
+  "starFloor": 50,
+  "emergingFloor": 100,
+  "pushedWithinDays": 45,
+  "emergingWithinDays": 25,
+  "tierMinStars": {
+    "org": 200,
+    "individual": 60
+  },
+  "velocity": {
+    "shortHours": 24,
+    "longHours": 48,
+    "decay": 0.5
+  },
+  "reporting": {
+    "maxNew": 12,
+    "maxGrowing": 8,
+    "popularCount": 5,
+    "resurfaceMinDays": 7,
+    "resurfaceMinDelta": 150,
+    "releaseCheckMinDelta": 20,
+    "maxReleaseChecks": 12
+  },
+  "queries": [
+    { "source": "topic:llm", "q": "topic:llm pushed:>{pushedFrom} stars:>{floor}" },
+    { "source": "topic:ai-agents", "q": "topic:ai-agents pushed:>{pushedFrom} stars:>{floor}" },
+    { "source": "topic:rag", "q": "topic:rag pushed:>{pushedFrom} stars:>{floor}" },
+    { "source": "topic:mcp", "q": "topic:mcp pushed:>{pushedFrom} stars:>{floor}" },
+    { "source": "topic:generative-ai", "q": "topic:generative-ai pushed:>{pushedFrom} stars:>{floor}" },
+    { "source": "keyword:ai-agent", "q": "ai agent in:name,description,topics pushed:>{pushedFrom} stars:>{floor}" },
+    { "source": "emerging", "q": "created:>{newFrom} stars:>{emergingFloor} topic:ai" }
+  ]
+}

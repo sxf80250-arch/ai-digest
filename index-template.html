@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 项目日报 · 目录</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">AI 项目日报</div>
+    <h1>全部日报</h1>
+    <p class="lead">每天一份，只记录新出现且增长较快的 AI 开源项目。点日期打开当天内容。</p>
+  </div>
+</header>
+<main class="wrap">
+  <div class="issues">
+{{ITEMS}}
+  </div>
+</main>
+<footer class="wrap foot">
+  <p>数据来自 GitHub 官方接口 · 每天 08:00 自动生成</p>
+</footer>
+<!--ITEM-->
+    <a class="issue" href="{{HREF}}">
+      <span class="date mono">{{DATE}}</span>
+      <span class="title">{{TITLE}}</span>
+      <span class="meta"><span class="mono">{{COUNT_N}}</span> 个项目</span>
+    </a>
+<!--/ITEM-->
+</body>
+</html>

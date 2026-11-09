@@ -1,0 +1,242 @@
+﻿[
+    {
+        "repo":  "nexu-io/open-design",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "earendil-works/pi",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "blader/humanizer",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "career-ops-hq/career-ops",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "stablyai/orca",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "KKKKhazix/AIHOT",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "affaan-m/ECC",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "lyogavin/airllm",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "DietrichGebert/ponytail",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "Panniantong/Agent-Reach",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "hypit-ai/hypit",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "zhuyansen/new-term-radar",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "rohitg00/ai-engineering-from-scratch",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "ollama/ollama",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "ahujasid/mcp-for-blender",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "Folkbench/folkbench",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "D4Vinci/Scrapling",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "calesthio/OpenMontage",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "diegosouzapw/OmniRoute",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "headroomlabs-ai/headroom",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "NousResearch/hermes-agent",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "thedotmack/claude-mem",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "deeplethe/solid-glass",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "JuliusBrussee/caveman",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "Graphify-Labs/graphify",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "addyosmani/agent-skills",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "heygen-com/hyperframes",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "obra/superpowers",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "MadsLorentzen/ai-job-search",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "coreyhaines31/marketingskills",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "Tencent/WeKnora",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "K-Dense-AI/scientific-agent-skills",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "Leonxlnx/taste-skill",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "anthropics/claude-plugins-official",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "morluto/rea",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "paperclipai/paperclip",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "ruvnet/ruflo",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "tt-a1i/archify",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "firecrawl/firecrawl",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "deepseek-ai/deepseek-harness",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "harry0703/MoneyPrinterTurbo",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "koala73/worldmonitor",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "herdrdev/herdr",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "msitarzewski/agency-agents",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "LosaLosSantos/aurelio-finance",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "n8n-io/n8n",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "bojieli/ai-agent-book",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "rtk-ai/rtk",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "Shubhamsaboo/awesome-llm-apps",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "browser-use/browser-use",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "f/prompts.chat",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "DavidHDev/react-bits",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "datawhalechina/hello-agents",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "Anil-matcha/Open-Generative-AI",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "ZhuLinsen/daily_stock_analysis",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "virgiliojr94/book-to-skill",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "datalab-to/indra",
+        "date":  "2026-10-19"
+    }
+]

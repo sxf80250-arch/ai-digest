@@ -1,0 +1,98 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 项目日报 &#183; 2026-10-21</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">AI 项目日报</div>
+    <h1>AI 项目日报 &#183; 2026-10-21</h1>
+    <p class="lead">本期从 220 个候选项目中筛出 6 个。今天候选池里老面孔偏多（ollama、dify、n8n、open-webui 都在涨），这些已经人尽皆知的项目我没有收录，只留真正值得看的。</p>
+    <nav class="topnav" aria-label="期号导航">
+      <a class="pill" href="index.html">目录</a>
+      <a class="pill " href="2026-10-22.html">上一期 <span class="mono">2026-10-22</span></a>
+      <a class="pill is-hidden" href="#">下一期 <span class="mono"></span></a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<section>
+  <h2>一、跑模型与搭 agent 的底座</h2>
+  
+<article class="card">
+  <h3 class="card-title">vllm-project/vllm</h3>
+  <div class="badges"><span class="badge stars">近 24 小时 +273 ★</span><span class="badge stars">总计 94,431 ★</span><span class="badge">Python</span><span class="badge">Apache-2.0</span></div>
+  <p class="desc">高吞吐、省显存的 LLM 推理与服务引擎，支持 CUDA、AMD、TPU 等多种后端，是自建模型服务时最常见的底座。</p>
+  <p class="why"><strong>为什么值得看</strong>：今天是热度第一，而且中文教程已经非常成熟——如果你要在自己的机器或服务器上提供模型服务，它是绕不开的选项。</p>
+  <p class="signal">外部信号：B 站有原理详解教程（讲推理的两个阶段和核心问题）；网上也有第三方评测与官方博客。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/vllm-project/vllm" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">AstrBotDevs/AstrBot</h3>
+  <div class="badges"><span class="badge stars">近 24 小时 +179 ★</span><span class="badge stars">总计 42,438 ★</span><span class="badge">Python</span><span class="badge">AGPL-3.0</span></div>
+  <p class="desc">接入 QQ、Telegram、Discord 等聊天平台的 AI agent 助手与开发框架，支持插件、MCP 和多家模型。</p>
+  <p class="why"><strong>为什么值得看</strong>：想让 agent 直接出现在日常聊天工具里，它是目前功能最全的开源方案之一。注意是 AGPL-3.0，二次分发前看清条款。</p>
+  <p class="signal">外部信号：有第三方评测（AstrBot Review 2026）；B 站有本地部署教程「AstrBot 加 NapCat 部署 QQ 机器人」。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/AstrBotDevs/AstrBot" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+<section>
+  <h2>二、技能与插件生态</h2>
+  
+<article class="card">
+  <h3 class="card-title">sickn33/agentic-awesome-skills</h3>
+  <div class="badges"><span class="badge stars">近 24 小时 +129 ★</span><span class="badge stars">总计 48,087 ★</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">AAS Core：本地优先的 agent 技能控制平面，负责技能目录发现、按 agent 自动选择、技术栈校验和规划。</p>
+  <p class="why"><strong>为什么值得看</strong>：现在的问题是「技能太多、不知道装哪个」；这个项目解决的是技能的管理与选择，而不是再堆一堆提示词。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/sickn33/agentic-awesome-skills" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">wshobson/agents</h3>
+  <div class="badges"><span class="badge stars">近 24 小时 +89 ★</span><span class="badge stars">总计 41,249 ★</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">跨 harness 的 agent 插件市场：同一套插件覆盖 Claude Code、Codex、Cursor、OpenCode、GitHub Copilot、Antigravity 和 Pi。</p>
+  <p class="why"><strong>为什么值得看</strong>：如果你的工具箱里同时有两三个编码 agent，这个能省掉「每家各配一套」的重复劳动。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/wshobson/agents" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">mvanhorn/last30days-skill</h3>
+  <div class="badges"><span class="badge stars">近 24 小时 +101 ★</span><span class="badge stars">总计 64,880 ★</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">一个让 agent 调研任意话题「最近 30 天」全网讨论的技能：拉取 Reddit、X、YouTube、Hacker News、Polymarket 和网页内容，再综合成有依据的总结。</p>
+  <p class="why"><strong>为什么值得看</strong>：和我们自己的日报思路高度重合——它把「多平台近 30 天」封装成了一个技能，信源组合值得借鉴。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/mvanhorn/last30days-skill" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+<section>
+  <h2>三、一个具体应用</h2>
+  
+<article class="card">
+  <h3 class="card-title">HKUDS/DeepTutor</h3>
+  <div class="badges"><span class="badge stars">近 24 小时 +124 ★</span><span class="badge stars">总计 41,899 ★</span><span class="badge">Python</span><span class="badge">Apache-2.0</span></div>
+  <p class="desc">港大团队的「终身个性化辅导」agent：多 agent 加 RAG，能持续跟踪学习进度并调整讲解。</p>
+  <p class="why"><strong>为什么值得看</strong>：教育是 agent 落地里最容易验证效果的方向之一；它的多 agent 分工方式可以直接对照自己的场景。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/HKUDS/DeepTutor" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+</main>
+<footer class="wrap foot">
+  <p>数据来自 GitHub 官方接口 · 每期按星标平均增速排序 · 每天 08:00 自动生成</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,147 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 项目日报 &#183; 2026-10-23</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">AI 项目日报</div>
+    <h1>AI 项目日报 &#183; 2026-10-23</h1>
+    <p class="lead">本期从 221 个候选项目中筛出 12 个：5 个新面孔，7 个带着新版本或明显涨幅回归的老项目。热度 = 近 24 小时涨幅 + 前 24 小时涨幅的一半；本期 221 个候选里 220 个有热度数据。</p>
+    <nav class="topnav" aria-label="期号导航">
+      <a class="pill" href="index.html">目录</a>
+      <a class="pill " href="2026-10-26.html">上一期 <span class="mono">2026-10-26</span></a>
+      <a class="pill is-hidden" href="#">下一期 <span class="mono"></span></a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<section>
+  <h2>一、今天的新面孔</h2>
+  
+<article class="card">
+  <h3 class="card-title">Ebony-Vinyl/dsh-our-free-model</h3>
+  <div class="badges"><span class="badge stars">热度 +2,918 ★</span><span class="badge stars">总计 36,738 ★</span><span class="badge">JavaScript</span><span class="badge">MIT</span></div>
+  <p class="desc">一个 dsh 插件：装上后免注册、免 API Key 就能用 DeepSeek V4.1 Flash、Kimi K3 等几款模型（按其描述）。</p>
+  <p class="why"><strong>为什么值得看</strong>：今天新项目里热度最高，但这类「免费通道」的稳定性、额度和合规性都要自己判断——能用不等于该用，尤其别接生产。</p>
+  <p class="signal">外部信号：B 站有视频介绍（「只要一个插件，dsh 就能免费无限使用九款大模型」）。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/Ebony-Vinyl/dsh-our-free-model" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">ai-job-search-dev/ai-job-search</h3>
+  <div class="badges"><span class="badge stars">热度 +625 ★</span><span class="badge stars">总计 63,551 ★</span><span class="badge">Python</span><span class="badge">MIT</span></div>
+  <p class="desc">在你本机运行的求职流程（基于 Claude Code）：评估岗位、按岗位改简历、写求职信、准备面试。</p>
+  <p class="why"><strong>为什么值得看</strong>：数据不出本机是它最大的卖点，而且已经有中文实测——国内环境能不能用，视频里给了答案。</p>
+  <p class="signal">外部信号：有第三方评测（DEV Community：把 Claude Code 当求职助手）；B 站有实测视频「3.9 万星的 AI 求职工具，国内能用吗」。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/ai-job-search-dev/ai-job-search" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">cheaper-inference/OmniRoute</h3>
+  <div class="badges"><span class="badge stars">热度 +452 ★</span><span class="badge stars">总计 79,889 ★</span><span class="badge">TypeScript</span><span class="badge">MIT</span></div>
+  <p class="desc">免费的 MIT 协议 AI 网关：一个端点接入 375 家供应商（其中 150 多家免费）、1400 多个模型。</p>
+  <p class="why"><strong>为什么值得看</strong>：和昨天的思路一样——多模型切换与成本控制。第三方网关的稳定性、隐私和条款风险，用之前务必想清楚。</p>
+  <p class="signal">外部信号：B 站有介绍视频（「免费 AI 网关：一个端点、Token 节省 95%」）。</p>
+  <p class="linkrow"><a class="repo" href="https://github.com/cheaper-inference/OmniRoute" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">opendataloader-project/opendataloader-pdf</h3>
+  <div class="badges"><span class="badge stars">热度 +172 ★</span><span class="badge stars">总计 29,925 ★</span><span class="badge">Java</span><span class="badge">Apache-2.0</span></div>
+  <p class="desc">把 PDF 解析成适合喂给模型的结构化数据，同时兼顾无障碍输出。</p>
+  <p class="why"><strong>为什么值得看</strong>：文档自动化里最脏最累的一步就是 PDF 解析；Java 实现意味着可以直接嵌进现有企业系统。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">DeusData/codebase-memory-mcp</h3>
+  <div class="badges"><span class="badge stars">热度 +171 ★</span><span class="badge stars">总计 47,248 ★</span><span class="badge">C</span><span class="badge">MIT</span></div>
+  <p class="desc">本地代码智能：把代码、文档和基础设施连成一张持久图谱，供开发者和 agent 查询。</p>
+  <p class="why"><strong>为什么值得看</strong>：和 graphify 是同一类问题的两种解法——一个是按需建图，一个是常驻记忆；值得对比着试。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/DeusData/codebase-memory-mcp" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+<section>
+  <h2>二、有新进展</h2>
+  
+<article class="card">
+  <h3 class="card-title">morluto/rea</h3>
+  <div class="badges"><span class="badge stars">热度 +13,363 ★</span><span class="badge stars">总计 366,188 ★</span><span class="badge">TypeScript</span><span class="badge">MIT</span></div>
+  <p class="desc">用 agent 做逆向工程，从应用行为一路分析到原生二进制。</p>
+  <p class="why"><strong>为什么值得看</strong>：连续两天是全场热点，10 月 18 日发布 rea-agents-6.7.0，热度背后有实际版本推进。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/morluto/rea" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">DietrichGebert/ponytail</h3>
+  <div class="badges"><span class="badge stars">热度 +2,824 ★</span><span class="badge stars">总计 173,450 ★</span><span class="badge">JavaScript</span><span class="badge">MIT</span></div>
+  <p class="desc">让编码 agent 像「最懒的资深工程师」思考：能不写的代码就不写。</p>
+  <p class="why"><strong>为什么值得看</strong>：v5.3.2（10 月 17 日）之后热度仍在涨，说明这不是一次性爆红。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">stablyai/orca</h3>
+  <div class="badges"><span class="badge stars">热度 +2,267 ★</span><span class="badge stars">总计 102,748 ★</span><span class="badge">TypeScript</span><span class="badge">MIT</span></div>
+  <p class="desc">并行 agent 舰队的工作台，支持桌面、移动和远程运行时。</p>
+  <p class="why"><strong>为什么值得看</strong>：v1.4.237（10 月 21 日）刚更新，是这类工具里迭代最快的之一。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/stablyai/orca" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">Graphify-Labs/graphify</h3>
+  <div class="badges"><span class="badge stars">热度 +2,004 ★</span><span class="badge stars">总计 132,933 ★</span><span class="badge">Python</span><span class="badge">Apache-2.0</span></div>
+  <p class="desc">把代码库连同文档、schema、配置和 PDF 变成可查询的知识图谱。</p>
+  <p class="why"><strong>为什么值得看</strong>：今天发布 v0.9.94，版本节奏很稳，离 1.0 只差一点。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/Graphify-Labs/graphify" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">deepseek-ai/deepseek-harness</h3>
+  <div class="badges"><span class="badge stars">热度 +1,780 ★</span><span class="badge stars">总计 258,159 ★</span><span class="badge">TypeScript</span><span class="badge">MIT</span></div>
+  <p class="desc">DeepSeek 官方的插件化 agent 框架，主张「一切皆插件」。</p>
+  <p class="why"><strong>为什么值得看</strong>：48 小时又涨了 2,372 星，是当前 agent 框架层面最值得盯的一条线。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/deepseek-ai/deepseek-harness" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">affaan-m/ECC</h3>
+  <div class="badges"><span class="badge stars">热度 +1,214 ★</span><span class="badge stars">总计 286,531 ★</span><span class="badge">JavaScript</span><span class="badge">MIT</span></div>
+  <p class="desc">agent harness 的性能优化系统：技能、直觉、记忆、安全，跨 Claude Code、Codex、Cursor 等。</p>
+  <p class="why"><strong>为什么值得看</strong>：48 小时涨 1,620 星，「给 agent 加能力层」这条赛道依旧很热。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/affaan-m/ECC" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+<article class="card">
+  <h3 class="card-title">heygen-com/hyperframes</h3>
+  <div class="badges"><span class="badge stars">热度 +1,155 ★</span><span class="badge stars">总计 70,008 ★</span><span class="badge">TypeScript</span><span class="badge">Apache-2.0</span></div>
+  <p class="desc">用 HTML 写、渲染成视频，专为 agent 设计。</p>
+  <p class="why"><strong>为什么值得看</strong>：今天发布 v0.8.186，是「把视频生产变成写网页」这条路线里更新最勤的项目。</p>
+  
+  <p class="linkrow"><a class="repo" href="https://github.com/heygen-com/hyperframes" target="_blank" rel="noopener">打开仓库 ↗</a></p>
+</article>
+
+</section>
+
+</main>
+<footer class="wrap foot">
+  <p>数据来自 GitHub 官方接口 · 每期按星标平均增速排序 · 每天 08:00 自动生成</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,400 @@
+﻿[
+    {
+        "repo":  "nexu-io/open-design",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "earendil-works/pi",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "blader/humanizer",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "career-ops-hq/career-ops",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "stablyai/orca",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "KKKKhazix/AIHOT",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "affaan-m/ECC",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "DietrichGebert/ponytail",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "Panniantong/Agent-Reach",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "hypit-ai/hypit",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "zhuyansen/new-term-radar",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "rohitg00/ai-engineering-from-scratch",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "ahujasid/mcp-for-blender",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "Folkbench/folkbench",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "D4Vinci/Scrapling",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "calesthio/OpenMontage",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "diegosouzapw/OmniRoute",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "headroomlabs-ai/headroom",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "NousResearch/hermes-agent",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "thedotmack/claude-mem",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "deeplethe/solid-glass",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "JuliusBrussee/caveman",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "Graphify-Labs/graphify",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "addyosmani/agent-skills",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "heygen-com/hyperframes",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "obra/superpowers",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "MadsLorentzen/ai-job-search",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "coreyhaines31/marketingskills",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "K-Dense-AI/scientific-agent-skills",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "Leonxlnx/taste-skill",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "anthropics/claude-plugins-official",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "morluto/rea",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "paperclipai/paperclip",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "ruvnet/ruflo",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "tt-a1i/archify",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "firecrawl/firecrawl",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "deepseek-ai/deepseek-harness",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "harry0703/MoneyPrinterTurbo",
+        "date":  "2026-10-16"
+    },
+    {
+        "repo":  "koala73/worldmonitor",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "herdrdev/herdr",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "msitarzewski/agency-agents",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "LosaLosSantos/aurelio-finance",
+        "date":  "2026-10-15"
+    },
+    {
+        "repo":  "bojieli/ai-agent-book",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "rtk-ai/rtk",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "virgiliojr94/book-to-skill",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "datalab-to/indra",
+        "date":  "2026-10-19"
+    },
+    {
+        "repo":  "lyogavin/airllm",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "HBAI-Ltd/Toonflow-app",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "Anil-matcha/Open-Generative-AI",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "Tencent/WeKnora",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "datawhalechina/hello-agents",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "f/prompts.chat",
+        "date":  "2026-10-20"
+    },
+    {
+        "repo":  "vllm-project/vllm",
+        "date":  "2026-10-21"
+    },
+    {
+        "repo":  "AstrBotDevs/AstrBot",
+        "date":  "2026-10-21"
+    },
+    {
+        "repo":  "sickn33/agentic-awesome-skills",
+        "date":  "2026-10-21"
+    },
+    {
+        "repo":  "wshobson/agents",
+        "date":  "2026-10-21"
+    },
+    {
+        "repo":  "mvanhorn/last30days-skill",
+        "date":  "2026-10-21"
+    },
+    {
+        "repo":  "HKUDS/DeepTutor",
+        "date":  "2026-10-21"
+    },
+    {
+        "repo":  "HKUDS/Vibe-Trading",
+        "date":  "2026-10-22"
+    },
+    {
+        "repo":  "multica-ai/multica",
+        "date":  "2026-10-22"
+    },
+    {
+        "repo":  "onyx-dot-app/onyx",
+        "date":  "2026-10-22"
+    },
+    {
+        "repo":  "Ebony-Vinyl/dsh-our-free-model",
+        "date":  "2026-10-23"
+    },
+    {
+        "repo":  "ai-job-search-dev/ai-job-search",
+        "date":  "2026-10-23"
+    },
+    {
+        "repo":  "cheaper-inference/OmniRoute",
+        "date":  "2026-10-23"
+    },
+    {
+        "repo":  "opendataloader-project/opendataloader-pdf",
+        "date":  "2026-10-23"
+    },
+    {
+        "repo":  "DeusData/codebase-memory-mcp",
+        "date":  "2026-10-23"
+    },
+    {
+        "repo":  "google-gemini/gemini-cli",
+        "date":  "2026-10-26"
+    },
+    {
+        "repo":  "Narcooo/inkos",
+        "date":  "2026-10-26"
+    },
+    {
+        "repo":  "agentscope-ai/QwenPaw",
+        "date":  "2026-10-26"
+    },
+    {
+        "repo":  "hevnsnt/CVEngine",
+        "date":  "2026-10-27",
+        "id":  1432649361
+    },
+    {
+        "repo":  "xerj-org/xerj",
+        "date":  "2026-10-28",
+        "id":  1284653133
+    },
+    {
+        "repo":  "HKUDS/nanobot",
+        "date":  "2026-10-28",
+        "id":  1147094660
+    },
+    {
+        "repo":  "JCodesMore/ai-website-cloner-template",
+        "date":  "2026-10-29",
+        "id":  1180745961
+    },
+    {
+        "repo":  "shareAI-lab/learn-claude-code",
+        "date":  "2026-10-29",
+        "id":  1010681419
+    },
+    {
+        "repo":  "huaxialucaicaizi/ai-startup-skills",
+        "date":  "2026-10-29",
+        "id":  1429583155
+    },
+    {
+        "repo":  "pbakaus/impeccable",
+        "date":  "2026-10-30",
+        "id":  1097346685
+    },
+    {
+        "repo":  "MemPalace/mempalace",
+        "date":  "2026-10-30",
+        "id":  1201656210
+    },
+    {
+        "repo":  "patchy631/ai-engineering-hub",
+        "date":  "2026-11-02",
+        "id":  876064934
+    },
+    {
+        "repo":  "Fincept-Corporation/FinceptTerminal",
+        "date":  "2026-11-02",
+        "id":  849406496
+    },
+    {
+        "repo":  "microsoft/ai-agents-for-beginners",
+        "date":  "2026-11-02",
+        "id":  895508656
+    },
+    {
+        "repo":  "infiniflow/ragflow",
+        "date":  "2026-11-03",
+        "id":  730534580
+    },
+    {
+        "repo":  "Donchitos/Claude-Code-Game-Studios",
+        "date":  "2026-11-04",
+        "id":  1155965274
+    },
+    {
+        "repo":  "EverMind-AI/EverOS",
+        "date":  "2026-11-04",
+        "id":  1085086903
+    },
+    {
+        "repo":  "microsoft/playwright-mcp",
+        "date":  "2026-11-04",
+        "id":  952688112
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-05",
+        "id":  643445235
+    },
+    {
+        "repo":  "BerriAI/litellm",
+        "date":  "2026-11-05",
+        "id":  671269505
+    },
+    {
+        "repo":  "ConardLi/garden-skills",
+        "date":  "2026-11-06",
+        "id":  1216954187
+    },
+    {
+        "repo":  "asgeirtj/system_prompts_leaks",
+        "date":  "2026-11-06",
+        "id":  976921297
+    },
+    {
+        "repo":  "ZhuLinsen/daily_stock_analysis",
+        "date":  "2026-11-09",
+        "id":  1131513930
+    },
+    {
+        "repo":  "shanraisshan/claude-code-best-practice",
+        "date":  "2026-11-09",
+        "id":  1087192965
+    },
+    {
+        "repo":  "VectifyAI/PageIndex",
+        "date":  "2026-11-09",
+        "id":  958531089
+    }
+]

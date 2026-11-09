@@ -1,0 +1,14 @@
+{
+  "_readme": "Set siteBaseUrl after GitHub Pages is enabled. Example: https://OWNER.github.io/REPOSITORY",
+  "siteBaseUrl": "",
+  "shortcutName": "今日 AI 日报",
+  "messages": {
+    "configurationTitle": "日报尚未配置",
+    "configurationBody": "还没有设置公开日报网址。请先完成 DEPLOY.md 中的部署步骤。",
+    "offlineTitle": "暂时无法连接云端",
+    "offlineBody": "请检查网络连接和公开日报网址，然后再点一次桌面快捷方式。",
+    "notReadyTitle": "今天的日报还没生成",
+    "notReadyBody": "今天的日报还没有生成。最新一期是 {date}。\n\n要打开这一期吗？",
+    "latestMissingBody": "云端没有返回有效的日报日期，请稍后再试。"
+  }
+}

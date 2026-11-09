@@ -1,0 +1,132 @@
+name: AI project daily digest
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Regenerate and publish even if today's digest already exists
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-project-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: windows-latest
+    timeout-minutes: 40
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL || 'deepseek-flash' }}
+      DEEPSEEK_BASE_URL: ${{ vars.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Resolve Beijing date and once-per-day guard
+        id: today
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById('China Standard Time')
+          $date = [System.TimeZoneInfo]::ConvertTime([DateTimeOffset]::UtcNow, $tz).ToString('yyyy-MM-dd')
+          $force = '${{ inputs.force }}' -eq 'true'
+          $digest = Join-Path $PWD ($date + '-ai-digest.md')
+          $skip = (-not $force) -and (Test-Path -LiteralPath $digest)
+          $utf8 = New-Object System.Text.UTF8Encoding($false)
+          [IO.File]::AppendAllText($env:GITHUB_OUTPUT, ("date=" + $date + "`n"), $utf8)
+          [IO.File]::AppendAllText($env:GITHUB_OUTPUT, ("skip=" + $skip.ToString().ToLowerInvariant() + "`n"), $utf8)
+          Write-Output ("date=" + $date + " force=" + $force + " skip=" + $skip)
+
+      - name: Collect GitHub candidates
+        if: steps.today.outputs.skip != 'true'
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $args = @(
+            '-NoProfile', '-ExecutionPolicy', 'Bypass',
+            '-File', (Join-Path $PWD 'collect-github-ai.ps1'),
+            '-Date', '${{ steps.today.outputs.date }}',
+            '-NoMark'
+          )
+          if ('${{ inputs.force }}' -eq 'true') { $args += '-Force' }
+          & powershell.exe @args
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
+      - name: Collect external signals
+        if: steps.today.outputs.skip != 'true'
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $signals = Join-Path $env:RUNNER_TEMP 'external-signals.txt'
+          & powershell.exe -NoProfile -ExecutionPolicy Bypass -File (Join-Path $PWD 'external-signals.ps1') `
+            -Dir $PWD -Date '${{ steps.today.outputs.date }}' 2>&1 |
+            Set-Content -LiteralPath $signals -Encoding UTF8
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          Write-Output ("signals=" + $signals)
+
+      - name: Write digest with DeepSeek
+        if: steps.today.outputs.skip != 'true'
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $date = '${{ steps.today.outputs.date }}'
+          & (Join-Path $PWD 'make-ai-digest.ps1') `
+            -Date $date `
+            -CandidatesPath (Join-Path $PWD ('data\candidates-' + $date + '.json')) `
+            -SignalsPath (Join-Path $env:RUNNER_TEMP 'external-signals.txt') `
+            -OutPath (Join-Path $PWD ($date + '-ai-digest.md')) `
+            -PromptPath (Join-Path $PWD 'digest-prompt.md') `
+            -Model $env:DEEPSEEK_MODEL `
+            -BaseUrl $env:DEEPSEEK_BASE_URL
+
+      - name: Build site and PDF
+        if: steps.today.outputs.skip != 'true'
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          & (Join-Path $PWD 'build-site.ps1') -Dir $PWD -Pdf
+
+      - name: Mark only the published digest entries
+        if: steps.today.outputs.skip != 'true'
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $date = '${{ steps.today.outputs.date }}'
+          & powershell.exe -NoProfile -ExecutionPolicy Bypass -File (Join-Path $PWD 'collect-github-ai.ps1') `
+            -Date $date -CommitFrom (Join-Path $PWD ($date + '-ai-digest.md'))
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
+      - name: Commit generated state and site
+        if: steps.today.outputs.skip != 'true'
+        shell: powershell
+        run: |
+          $ErrorActionPreference = 'Stop'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Output 'No generated changes to commit.'
+            exit 0
+          }
+          git commit -m "publish AI digest ${{ steps.today.outputs.date }}"
+          git push origin ("HEAD:" + '${{ github.ref_name }}')
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
+      - name: Report skipped duplicate
+        if: steps.today.outputs.skip == 'true'
+        shell: powershell
+        run: |
+          Write-Output ("Today's digest already exists: " + '${{ steps.today.outputs.date }}')

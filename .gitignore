@@ -1,0 +1,7 @@
+config.toml
+.env
+*.secret
+*.local.json
+*.tmp
+*.log
+data/.generating
