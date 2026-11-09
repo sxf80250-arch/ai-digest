@@ -7,7 +7,7 @@
 1. GitHub Actions 每天北京时间 08:00 抓取候选、调用 DeepSeek、生成 Markdown、网页和 PDF。
 2. 生成成功后，把 `data/`、当天的 Markdown 和 `site/` 提交回仓库。
 3. GitHub Pages Actions 把 `site/` 目录发布为公开网页。
-4. 桌面快捷方式读取 `site/latest.json`：
+4. 桌面网页快捷方式打开 `site/today.html`，由页面读取 `site/latest.json`：
    - 有当天日报：直接打开网页。
    - 当天还没生成：提示最新一期日期，由你决定是否打开旧一期。
 
@@ -60,13 +60,13 @@ git push -u origin main
 
 - Source：`GitHub Actions`
 
-首次发布后，把 `site-config.json` 中的 `siteBaseUrl` 改成：
+部署完成后的公开网址是：
 
 ```text
 https://OWNER.github.io/REPOSITORY
 ```
 
-不要带结尾斜杠，也不要直接指向某个日期页面。随后提交这次配置变更。
+不要带结尾斜杠，也不要直接指向某个日期页面。
 
 ## 第一次验证
 
@@ -79,15 +79,15 @@ https://OWNER.github.io/REPOSITORY
    - `site/YYYY-MM-DD.html`
    - `site/YYYY-MM-DD.pdf`
    - `site/latest.json`
-5. 等待 GitHub Pages 发布，浏览器直接打开 `siteBaseUrl/YYYY-MM-DD.html`。
+5. 等待 GitHub Pages 发布，浏览器直接打开 `https://OWNER.github.io/REPOSITORY/YYYY-MM-DD.html`。
    PDF 是附加产物；如果日志显示 `pdf=failed`，网页日报仍会正常发布和打开。
-6. 运行以下命令创建桌面快捷方式：
+6. 在桌面新建一个“Internet 快捷方式”，地址填写：
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File "E:\codex工程\杂项\gihub news\install-shortcut.ps1"
+```text
+https://OWNER.github.io/REPOSITORY/today.html
 ```
 
-桌面会出现“今日 AI 日报”。点击它只会执行一次检查，不影响开机速度。
+也可以把本目录中的 `今日 AI 日报.url` 复制到桌面。点击它只会打开一个公开网页检查当天日期，不会执行本机后台任务，也不影响开机速度。
 
 7. 云端连续成功两三天后，暂停本机 `ai-08-00` 自动化，避免本地和云端各生成一份日报。
 
@@ -102,6 +102,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\make-ai-digest.ps1 `
   -PromptPath .\digest-prompt.md `
   -DryRun
 
-powershell -NoProfile -ExecutionPolicy Bypass -File .\open-today.ps1 -DryRun
-powershell -NoProfile -ExecutionPolicy Bypass -File .\install-shortcut.ps1 -DryRun
 ```

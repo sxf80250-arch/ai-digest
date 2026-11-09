@@ -4,4 +4,6 @@ config.toml
 *.local.json
 *.tmp
 *.log
+*.lnk
+*.url
 data/.generating
