@@ -143,8 +143,17 @@ $titleIndex = $markdown.IndexOf('# AI ')
 if ($titleIndex -gt 0) { $markdown = $markdown.Substring($titleIndex).Trim() }
 
 $expectedTitle = [regex]::Unescape('\u0023 AI \u9879\u76ee\u65e5\u62a5 \u00b7 ') + $Date
-if (-not $markdown.StartsWith($expectedTitle)) {
-    throw ('digest title mismatch; expected: ' + $expectedTitle)
+$firstLineEnd = $markdown.IndexOf("`n")
+$firstLine = if ($firstLineEnd -ge 0) { $markdown.Substring(0, $firstLineEnd).TrimEnd("`r") } else { $markdown.Trim() }
+if (-not $firstLine.StartsWith('# AI ')) {
+    throw ('digest title missing; first line: ' + $firstLine)
+}
+if ($firstLine -ne $expectedTitle) {
+    $markdown = if ($firstLineEnd -ge 0) {
+        $expectedTitle + $markdown.Substring($firstLineEnd)
+    } else {
+        $expectedTitle
+    }
 }
 if ($markdown -notmatch 'https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+') {
     throw 'digest contains no GitHub repository link'
