@@ -56,15 +56,18 @@ if (-not $baseUrl -or $baseUrl -match 'OWNER|REPOSITORY') {
 
 $stamp = (Get-Date).ToString('yyyyMMddHHmmss')
 $metaUrl = $baseUrl + '/latest.json?v=' + $stamp
-try {
-    $latest = Invoke-RestMethod -Uri $metaUrl -Method Get -TimeoutSec 20 -UseBasicParsing
-} catch {
+$json = & curl.exe -L --fail --silent --show-error --retry 3 --retry-delay 1 --connect-timeout 10 --max-time 20 $metaUrl 2>&1
+if ($LASTEXITCODE -ne 0) {
     [void](Show-Message ([string]$messages.offlineBody) ([string]$messages.offlineTitle))
-    if ($DryRun) { Write-Output ('status=offline error=' + $_.Exception.Message) }
+    if ($DryRun) { Write-Output ('status=offline error=' + ($json -join ' ')) }
     exit 1
 }
-if ($latest -is [string]) {
-    $latest = $latest.TrimStart([char]0xFEFF) | ConvertFrom-Json
+try {
+    $latest = ($json -join "`n").TrimStart([char]0xFEFF) | ConvertFrom-Json
+} catch {
+    [void](Show-Message ([string]$messages.latestMissingBody) ([string]$messages.notReadyTitle))
+    if ($DryRun) { Write-Output ('status=invalid_json error=' + $_.Exception.Message) }
+    exit 1
 }
 
 $latestDate = [string]$latest.date
