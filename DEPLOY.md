@@ -6,7 +6,7 @@
 
 1. GitHub Actions 每天北京时间 08:00 抓取候选、调用 DeepSeek、生成 Markdown、网页和 PDF。
 2. 生成成功后，把 `data/`、当天的 Markdown 和 `site/` 提交回仓库。
-3. GitHub Pages 从 `main` 分支的 `/site` 目录发布网页。
+3. GitHub Pages Actions 把 `site/` 目录发布为公开网页。
 4. 桌面快捷方式读取 `site/latest.json`：
    - 有当天日报：直接打开网页。
    - 当天还没生成：提示最新一期日期，由你决定是否打开旧一期。
@@ -58,9 +58,7 @@ git push -u origin main
 
 打开 `Settings -> Pages`：
 
-- Source：`Deploy from a branch`
-- Branch：`main`
-- Folder：`/site`
+- Source：`GitHub Actions`
 
 首次发布后，把 `site-config.json` 中的 `siteBaseUrl` 改成：
 

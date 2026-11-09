@@ -1,6 +1,6 @@
 {
   "_readme": "Set siteBaseUrl after GitHub Pages is enabled. Example: https://OWNER.github.io/REPOSITORY",
-  "siteBaseUrl": "",
+  "siteBaseUrl": "https://sxf80250-arch.github.io/ai-digest",
   "shortcutName": "今日 AI 日报",
   "messages": {
     "configurationTitle": "日报尚未配置",
