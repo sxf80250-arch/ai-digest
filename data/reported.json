@@ -426,5 +426,35 @@
         "repo":  "n8n-io/n8n",
         "date":  "2026-11-09",
         "id":  193215554
+    },
+    {
+        "repo":  "hesreallyhim/awesome-claude-code",
+        "date":  "2026-11-09",
+        "id":  969302809
+    },
+    {
+        "repo":  "langgenius/dify",
+        "date":  "2026-11-09",
+        "id":  626805178
+    },
+    {
+        "repo":  "mem0ai/mem0",
+        "date":  "2026-11-09",
+        "id":  656099147
+    },
+    {
+        "repo":  "rasbt/LLMs-from-scratch",
+        "date":  "2026-11-09",
+        "id":  669879380
+    },
+    {
+        "repo":  "unclecode/crawl4ai",
+        "date":  "2026-11-09",
+        "id":  798201435
+    },
+    {
+        "repo":  "ChromeDevTools/chrome-devtools-mcp",
+        "date":  "2026-11-09",
+        "id":  1054793726
     }
 ]
