@@ -5,5 +5,4 @@ config.toml
 *.tmp
 *.log
 *.lnk
-*.url
 data/.generating
