@@ -396,5 +396,35 @@
         "repo":  "VectifyAI/PageIndex",
         "date":  "2026-11-09",
         "id":  958531089
+    },
+    {
+        "repo":  "ollama/ollama",
+        "date":  "2026-11-09",
+        "id":  658928958
+    },
+    {
+        "repo":  "open-webui/open-webui",
+        "date":  "2026-11-09",
+        "id":  701547123
+    },
+    {
+        "repo":  "Shubhamsaboo/awesome-llm-apps",
+        "date":  "2026-11-09",
+        "id":  793375104
+    },
+    {
+        "repo":  "OpenHands/OpenHands",
+        "date":  "2026-11-09",
+        "id":  771302083
+    },
+    {
+        "repo":  "browser-use/browser-use",
+        "date":  "2026-11-09",
+        "id":  881458615
+    },
+    {
+        "repo":  "n8n-io/n8n",
+        "date":  "2026-11-09",
+        "id":  193215554
     }
 ]
