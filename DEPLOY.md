@@ -4,7 +4,7 @@
 
 ## 运行结构
 
-1. GitHub Actions 每天北京时间 08:00 抓取候选、调用 DeepSeek、生成 Markdown、网页和 PDF。
+1. GitHub Actions 每天北京时间约 08:17 抓取候选、调用 DeepSeek、生成 Markdown、网页和 PDF；08:47 有备用触发。
 2. 生成成功后，把 `data/`、当天的 Markdown 和 `site/` 提交回仓库。
 3. GitHub Pages Actions 把 `site/` 目录发布为公开网页。
 4. 桌面网页快捷方式打开 `site/today.html`，由页面读取 `site/latest.json`：
@@ -13,7 +13,7 @@
 
 本地不会开机自启、常驻后台或轮询云端。
 
-`schedule` 使用 UTC，北京时间 08:00 对应 `0 0 * * *`。GitHub 的定时任务只从默认分支读取，实际启动时间也可能延迟几分钟。
+`schedule` 使用 UTC。主触发为北京时间 08:17（`17 0 * * *`），备用触发为 08:47（`47 0 * * *`）；去重守卫会保证同一天只生成一次。GitHub 的定时任务只从默认分支读取，实际启动时间仍可能延迟。
 
 ## 需要的 GitHub 配置
 
