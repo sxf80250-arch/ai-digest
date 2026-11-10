@@ -456,5 +456,50 @@
         "repo":  "ChromeDevTools/chrome-devtools-mcp",
         "date":  "2026-11-09",
         "id":  1054793726
+    },
+    {
+        "repo":  "shadcn-ui/ui",
+        "date":  "2026-11-10",
+        "id":  585146387
+    },
+    {
+        "repo":  "microsoft/generative-ai-for-beginners",
+        "date":  "2026-11-10",
+        "id":  655806940
+    },
+    {
+        "repo":  "paperless-ngx/paperless-ngx",
+        "date":  "2026-11-10",
+        "id":  458648791
+    },
+    {
+        "repo":  "ashishpatel26/500-AI-Agents-Projects",
+        "date":  "2026-11-10",
+        "id":  906251482
+    },
+    {
+        "repo":  "punkpeye/awesome-mcp-servers",
+        "date":  "2026-11-10",
+        "id":  896335270
+    },
+    {
+        "repo":  "upstash/context7",
+        "date":  "2026-11-10",
+        "id":  955620917
+    },
+    {
+        "repo":  "langchain-ai/langgraph",
+        "date":  "2026-11-10",
+        "id":  676672661
+    },
+    {
+        "repo":  "unslothai/unsloth",
+        "date":  "2026-11-10",
+        "id":  725205304
+    },
+    {
+        "repo":  "bytedance/deer-flow",
+        "date":  "2026-11-10",
+        "id":  979115477
     }
 ]
