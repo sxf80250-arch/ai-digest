@@ -1,0 +1,22 @@
+name: AI digest schedule
+
+on:
+  schedule:
+    - cron: '17 8 * * *'
+      timezone: Asia/Shanghai
+    - cron: '47 8 * * *'
+      timezone: Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger digest workflow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run ai-digest.yml --repo "$GITHUB_REPOSITORY" --ref main
