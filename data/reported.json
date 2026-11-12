@@ -521,5 +521,50 @@
         "repo":  "promptfoo/promptfoo",
         "date":  "2026-11-11",
         "id":  633927609
+    },
+    {
+        "repo":  "huggingface/transformers",
+        "date":  "2026-11-12",
+        "id":  155220641
+    },
+    {
+        "repo":  "alchaincyf/nuwa-skill",
+        "date":  "2026-11-12",
+        "id":  1201730379
+    },
+    {
+        "repo":  "LibreChat-AI/LibreChat",
+        "date":  "2026-11-12",
+        "id":  600596928
+    },
+    {
+        "repo":  "strands-agents/harness-sdk",
+        "date":  "2026-11-12",
+        "id":  983715534
+    },
+    {
+        "repo":  "Mintplex-Labs/anything-llm",
+        "date":  "2026-11-12",
+        "id":  649170660
+    },
+    {
+        "repo":  "dramaclaw/dramaclaw",
+        "date":  "2026-11-12",
+        "id":  1193300953
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-12",
+        "id":  840056306
+    },
+    {
+        "repo":  "aaif-goose/goose",
+        "date":  "2026-11-12",
+        "id":  846698999
+    },
+    {
+        "repo":  "langbot-app/LangBot",
+        "date":  "2026-11-12",
+        "id":  575321313
     }
 ]
