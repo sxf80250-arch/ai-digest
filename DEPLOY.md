@@ -7,9 +7,9 @@
 1. GitHub Actions 每天北京时间约 08:17 抓取候选、调用 DeepSeek、生成 Markdown、网页和 PDF；08:47 有备用触发。
 2. 生成成功后，把 `data/`、当天的 Markdown 和 `site/` 提交回仓库。
 3. GitHub Pages Actions 把 `site/` 目录发布为公开网页。
-4. 桌面网页快捷方式打开 `site/today.html`，由页面读取 `site/latest.json`：
+4. 桌面“今日 AI 日报”启动器先读取 `site/latest.json`：
    - 有当天日报：直接打开网页。
-   - 当天还没生成：提示最新一期日期，由你决定是否打开旧一期。
+   - 当天还没生成：使用本机已保存的 GitHub 授权触发云端工作流，并等待网页发布。
 
 本地不会开机自启、常驻后台或轮询云端。
 
@@ -81,13 +81,13 @@ https://OWNER.github.io/REPOSITORY
    - `site/latest.json`
 5. 等待 GitHub Pages 发布，浏览器直接打开 `https://OWNER.github.io/REPOSITORY/YYYY-MM-DD.html`。
    PDF 是附加产物；如果日志显示 `pdf=failed`，网页日报仍会正常发布和打开。
-6. 在桌面新建一个“Internet 快捷方式”，地址填写：
+6. 把 `ensure-today.ps1` 和 `desktop-text.json` 复制到：
 
 ```text
-https://OWNER.github.io/REPOSITORY/today.html
+%LOCALAPPDATA%\AI-Digest\
 ```
 
-也可以把本目录中的 `今日 AI 日报.url` 复制到桌面。点击它只会打开一个公开网页检查当天日期，不会执行本机后台任务，也不影响开机速度。
+再把 `今日 AI 日报.vbs` 复制到桌面。点击它不会启动常驻程序；只有发现当天日报缺失时，才会触发一次云端生成并等待结果。
 
 7. 云端连续成功两三天后，暂停本机 `ai-08-00` 自动化，避免本地和云端各生成一份日报。
 
