@@ -566,5 +566,25 @@
         "repo":  "langbot-app/LangBot",
         "date":  "2026-11-12",
         "id":  575321313
+    },
+    {
+        "repo":  "nexu-io/openmotion",
+        "date":  "2026-11-13",
+        "id":  1235403234
+    },
+    {
+        "repo":  "KenKaiii/Roamies",
+        "date":  "2026-11-13",
+        "id":  1437539254
+    },
+    {
+        "repo":  "TIGER-AI-Lab/WebsiteBench",
+        "date":  "2026-11-13",
+        "id":  1445663842
+    },
+    {
+        "repo":  "semantica-agi/semantica",
+        "date":  "2026-11-13",
+        "id":  1008304614
     }
 ]
