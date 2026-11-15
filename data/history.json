@@ -138,6 +138,12 @@
         "stars":  29731
     },
     {
+        "repo":  "hypit-ai/hypit",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  29886
+    },
+    {
         "repo":  "Takamatsu-Hikaru/AI-Research-Guide",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
@@ -250,6 +256,12 @@
         "date":  "2026-11-11",
         "ts":  "2026-11-11T00:47:10",
         "stars":  157
+    },
+    {
+        "repo":  "TurkeyDesignate/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  664
     },
     {
         "repo":  "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
@@ -402,6 +414,12 @@
         "stars":  18748
     },
     {
+        "repo":  "NVIDIA-NeMo/Speech",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  18753
+    },
+    {
         "repo":  "do-whilefor/ClawGod_Y",
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
@@ -412,6 +430,12 @@
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
         "stars":  102
+    },
+    {
+        "repo":  "Tealplesense/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  663
     },
     {
         "repo":  "rowboatlabs/rowboat",
@@ -552,6 +576,12 @@
         "stars":  18236
     },
     {
+        "repo":  "rowboatlabs/rowboat",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  18250
+    },
+    {
         "repo":  "NousResearch/hermes-agent",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -690,6 +720,12 @@
         "stars":  263266
     },
     {
+        "repo":  "NousResearch/hermes-agent",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  263455
+    },
+    {
         "repo":  "mindsdb/mindshub",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -826,6 +862,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  39864
+    },
+    {
+        "repo":  "mindsdb/mindshub",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39863
     },
     {
         "repo":  "fanhuayishiy/ai-crew-pass",
@@ -996,6 +1038,12 @@
         "stars":  87331
     },
     {
+        "repo":  "unclecode/crawl4ai",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  87373
+    },
+    {
         "repo":  "wousp112/justin-sun-alan-shao-ai-notes",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -1144,6 +1192,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  11154
+    },
+    {
+        "repo":  "openvinotoolkit/openvino",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  11159
     },
     {
         "repo":  "songshikang0111/awesome-REA-cases",
@@ -1548,6 +1602,12 @@
         "stars":  121909
     },
     {
+        "repo":  "earendil-works/pi",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  122065
+    },
+    {
         "repo":  "deepseek-ai/deepseek-harness",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -1684,6 +1744,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  280686
+    },
+    {
+        "repo":  "deepseek-ai/deepseek-harness",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  281232
     },
     {
         "repo":  "agno-agi/agno",
@@ -1824,6 +1890,12 @@
         "stars":  43183
     },
     {
+        "repo":  "agno-agi/agno",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  43197
+    },
+    {
         "repo":  "amitshekhariitbhu/forward-deployed-engineer-roadmap",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
@@ -1888,6 +1960,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  356
+    },
+    {
+        "repo":  "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  369
     },
     {
         "repo":  "topoteretes/cognee",
@@ -2052,6 +2130,12 @@
         "stars":  46655
     },
     {
+        "repo":  "milvus-io/milvus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  46666
+    },
+    {
         "repo":  "evidentlyai/evidently",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -2188,6 +2272,12 @@
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
         "stars":  110
+    },
+    {
+        "repo":  "topapothecarycanal/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  666
     },
     {
         "repo":  "MemPalace/mempalace",
@@ -2328,6 +2418,12 @@
         "stars":  60552
     },
     {
+        "repo":  "MemPalace/mempalace",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  60564
+    },
+    {
         "repo":  "mudler/LocalAI",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -2464,6 +2560,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  50360
+    },
+    {
+        "repo":  "mudler/LocalAI",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  50369
     },
     {
         "repo":  "shareAI-lab/learn-claude-code",
@@ -2604,6 +2706,12 @@
         "stars":  80388
     },
     {
+        "repo":  "shareAI-lab/learn-claude-code",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  80415
+    },
+    {
         "repo":  "rohitg00/ai-engineering-from-scratch",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -2740,6 +2848,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  78713
+    },
+    {
+        "repo":  "rohitg00/ai-engineering-from-scratch",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  78967
     },
     {
         "repo":  "sofixleon-arch/ai--manus",
@@ -2886,6 +3000,12 @@
         "stars":  158602
     },
     {
+        "repo":  "open-webui/open-webui",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  158681
+    },
+    {
         "repo":  "thesnarkitecht/rembrandt",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -3006,6 +3126,12 @@
         "stars":  351
     },
     {
+        "repo":  "TIGER-AI-Lab/WebsiteBench",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  394
+    },
+    {
         "repo":  "AcgBoss/ai--manus",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
@@ -3046,6 +3172,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  104250
+    },
+    {
+        "repo":  "ruvnet/RuView",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  104311
+    },
+    {
+        "repo":  "tornadonovicewhirl40/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  659
     },
     {
         "repo":  "AndreSzymanski15/ai-jailbreaks",
@@ -3192,6 +3330,12 @@
         "stars":  27153
     },
     {
+        "repo":  "promptfoo/promptfoo",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  27204
+    },
+    {
         "repo":  "langflow-ai/langflow",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -3330,6 +3474,12 @@
         "stars":  156618
     },
     {
+        "repo":  "langflow-ai/langflow",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  156655
+    },
+    {
         "repo":  "rtora/munorai",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
@@ -3387,6 +3537,12 @@
         "repo":  "rtora/munorai",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
+        "stars":  309
+    },
+    {
+        "repo":  "rtora/munorai",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
         "stars":  309
     },
     {
@@ -3574,6 +3730,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  168956
+    },
+    {
+        "repo":  "huggingface/transformers",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  168996
     },
     {
         "repo":  "h9-tec/ai-roadmap-2026",
@@ -3816,6 +3978,12 @@
         "stars":  11166
     },
     {
+        "repo":  "Narcooo/inkos",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  11189
+    },
+    {
         "repo":  "DayuanJiang/next-ai-draw-io",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
@@ -4014,6 +4182,18 @@
         "stars":  39121
     },
     {
+        "repo":  "JCodesMore/ai-website-cloner-template",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39156
+    },
+    {
+        "repo":  "TradesmanRecord/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  665
+    },
+    {
         "repo":  "obra/superpowers",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -4150,6 +4330,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  317320
+    },
+    {
+        "repo":  "obra/superpowers",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  317736
     },
     {
         "repo":  "KalyanKS-NLP/llm-engineer-toolkit",
@@ -4290,6 +4476,12 @@
         "stars":  11075
     },
     {
+        "repo":  "KalyanKS-NLP/llm-engineer-toolkit",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  11077
+    },
+    {
         "repo":  "mvanhorn/last30days-skill",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -4426,6 +4618,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  67583
+    },
+    {
+        "repo":  "mvanhorn/last30days-skill",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  67691
     },
     {
         "repo":  "strands-agents/harness-sdk",
@@ -4566,10 +4764,22 @@
         "stars":  9205
     },
     {
+        "repo":  "strands-agents/harness-sdk",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  9217
+    },
+    {
         "repo":  "SandyPandyMandy/ai--manus",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  146
+    },
+    {
+        "repo":  "ClampOverlord46/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
     },
     {
         "repo":  "Alejandros17487/ai-jailbreaks",
@@ -4818,6 +5028,12 @@
         "stars":  40687
     },
     {
+        "repo":  "HKUDS/LightRAG",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  40702
+    },
+    {
         "repo":  "strands-agents/box",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -4870,12 +5086,6 @@
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
         "stars":  101
-    },
-    {
-        "repo":  "xombiensar/ai--manus",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  146
     },
     {
         "repo":  "punkpeye/awesome-mcp-servers",
@@ -5016,6 +5226,12 @@
         "stars":  97686
     },
     {
+        "repo":  "punkpeye/awesome-mcp-servers",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  97717
+    },
+    {
         "repo":  "waooAI/waoowaoo",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -5116,6 +5332,150 @@
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
         "stars":  131
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  74465
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  74476
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  74501
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  74517
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  74526
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  74539
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  74548
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  74563
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  74569
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  74577
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  74587
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  74598
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  74621
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  74637
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  74643
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  74647
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  74658
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  74679
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:27",
+        "stars":  74686
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  74698
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  74711
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  74711
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  74728
+    },
+    {
+        "repo":  "thedaviddias/Front-End-Checklist",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  74741
     },
     {
         "repo":  "heygen-com/hyperframes",
@@ -5254,6 +5614,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  84035
+    },
+    {
+        "repo":  "heygen-com/hyperframes",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  84434
     },
     {
         "repo":  "7sen1ot/zcode2api",
@@ -5520,6 +5886,18 @@
         "stars":  115169
     },
     {
+        "repo":  "Leonxlnx/taste-skill",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  115764
+    },
+    {
+        "repo":  "Ultimateakiln/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  654
+    },
+    {
         "repo":  "microsoft/ai-agents-for-beginners",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -5658,142 +6036,10 @@
         "stars":  79590
     },
     {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  111206
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  111388
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  111918
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  112121
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:51",
-        "stars":  112342
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  112578
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  113019
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  114595
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  116074
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  117317
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  117883
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  118327
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  119529
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  119969
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  120352
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  120638
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  120828
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  121383
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:27",
-        "stars":  121625
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  121880
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  122108
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  122310
-    },
-    {
-        "repo":  "TauricResearch/TradingAgents",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  122484
+        "repo":  "microsoft/ai-agents-for-beginners",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  79656
     },
     {
         "repo":  "browser-use/browser-use",
@@ -5932,6 +6178,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  120969
+    },
+    {
+        "repo":  "browser-use/browser-use",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  121058
     },
     {
         "repo":  "Fazmin/AILearningGuide",
@@ -6138,6 +6390,12 @@
         "stars":  102566
     },
     {
+        "repo":  "D4Vinci/Scrapling",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  103049
+    },
+    {
         "repo":  "The-Vibe-Company/quivr",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -6274,6 +6532,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  39647
+    },
+    {
+        "repo":  "The-Vibe-Company/quivr",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39650
     },
     {
         "repo":  "morluto/rea",
@@ -6414,10 +6678,154 @@
         "stars":  458133
     },
     {
-        "repo":  "elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
+        "repo":  "morluto/rea",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  460377
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  28838
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  28851
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  28897
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  28914
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  28937
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  28961
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  28980
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  29023
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  29036
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  29048
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  29062
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  29074
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  29111
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  29124
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  29141
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  29158
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  29160
+    },
+    {
+        "repo":  "yamadashy/repomix",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  311
+        "stars":  29191
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  29205
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  29222
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:29",
+        "stars":  29232
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  29251
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  29264
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  29271
     },
     {
         "repo":  "ComposioHQ/awesome-claude-skills",
@@ -6586,6 +6994,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  924
+    },
+    {
+        "repo":  "huaxialucaicaizi/ai-startup-skills",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  926
     },
     {
         "repo":  "VinkyDev/vibestart",
@@ -6786,6 +7200,12 @@
         "stars":  177137
     },
     {
+        "repo":  "f/prompts.chat",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  177428
+    },
+    {
         "repo":  "lokicorvus/crosspet",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -6840,142 +7260,10 @@
         "stars":  345
     },
     {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  183184
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  183330
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  183748
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  183870
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:51",
-        "stars":  184070
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  184208
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  184339
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  184755
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  184895
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  185025
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  185140
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  185254
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  185598
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  185717
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  185817
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  185935
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  186035
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  186382
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:27",
-        "stars":  186448
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  186578
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  186693
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  186815
-    },
-    {
-        "repo":  "ollama/ollama",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  186911
+        "repo":  "Trapkrostride/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  660
     },
     {
         "repo":  "longsurf-ai/openchart",
@@ -7176,6 +7464,12 @@
         "stars":  9328
     },
     {
+        "repo":  "miurla/morphic",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  9333
+    },
+    {
         "repo":  "ConardLi/garden-skills",
         "date":  "2026-11-05",
         "ts":  "2026-11-05T08:32:49",
@@ -7216,6 +7510,12 @@
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
         "stars":  15025
+    },
+    {
+        "repo":  "TarantulaCorrect/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  659
     },
     {
         "repo":  "PaddlePaddle/PaddleOCR",
@@ -7428,6 +7728,12 @@
         "stars":  76034
     },
     {
+        "repo":  "hiyouga/LlamaFactory",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  76046
+    },
+    {
         "repo":  "patchy631/ai-engineering-hub",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -7566,142 +7872,16 @@
         "stars":  41845
     },
     {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  12739
+        "repo":  "patchy631/ai-engineering-hub",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  41869
     },
     {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  12739
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  12741
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  12744
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  12744
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  12746
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  12748
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  12770
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  12775
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  12779
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  12782
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  12788
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  12795
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  12802
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  12804
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  12806
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  12811
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  12817
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  12818
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  12820
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:29",
-        "stars":  12824
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  12831
-    },
-    {
-        "repo":  "steven2358/awesome-generative-ai",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  12830
+        "repo":  "WebBookkeeper/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  663
     },
     {
         "repo":  "microsoft/autogen",
@@ -7828,6 +8008,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  61810
+    },
+    {
+        "repo":  "microsoft/autogen",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  61833
     },
     {
         "repo":  "CCharlie-xiu/wuch-ai",
@@ -8082,6 +8268,12 @@
         "stars":  147377
     },
     {
+        "repo":  "Graphify-Labs/graphify",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  147908
+    },
+    {
         "repo":  "scarletkc/seiso",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -8250,6 +8442,12 @@
         "stars":  93441
     },
     {
+        "repo":  "OpenHands/OpenHands",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  93488
+    },
+    {
         "repo":  "arc53/DocsGPT",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -8386,6 +8584,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  18374
+    },
+    {
+        "repo":  "arc53/DocsGPT",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  18375
     },
     {
         "repo":  "RyanCodrai/turbovec",
@@ -8526,6 +8730,12 @@
         "stars":  17492
     },
     {
+        "repo":  "RyanCodrai/turbovec",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  17493
+    },
+    {
         "repo":  "JuliusBrussee/caveman",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -8662,6 +8872,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  119734
+    },
+    {
+        "repo":  "JuliusBrussee/caveman",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  120174
+    },
+    {
+        "repo":  "TrapBladesmith/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  664
     },
     {
         "repo":  "qweqeqeqweqeqwe/manus--ai",
@@ -8994,6 +9216,12 @@
         "stars":  86959
     },
     {
+        "repo":  "datawhalechina/hello-agents",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  87008
+    },
+    {
         "repo":  "NirDiamant/Prompt_Engineering",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -9072,34 +9300,16 @@
         "stars":  7936
     },
     {
-        "repo":  "hitkeeen/blender-ai-addon",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  217
+        "repo":  "NirDiamant/Prompt_Engineering",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  7937
     },
     {
-        "repo":  "hitkeeen/blender-ai-addon",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  217
-    },
-    {
-        "repo":  "hitkeeen/blender-ai-addon",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  217
-    },
-    {
-        "repo":  "hitkeeen/blender-ai-addon",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  217
-    },
-    {
-        "repo":  "hitkeeen/blender-ai-addon",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  218
+        "repo":  "TealAgentRevive/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
     },
     {
         "repo":  "Yeachan-Heo/oh-my-claudecode",
@@ -9238,6 +9448,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  40816
+    },
+    {
+        "repo":  "Yeachan-Heo/oh-my-claudecode",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  40837
     },
     {
         "repo":  "KKKKhazix/AIHOT",
@@ -9414,6 +9630,12 @@
         "stars":  50070
     },
     {
+        "repo":  "HKUDS/nanobot",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  50089
+    },
+    {
         "repo":  "lwh0630/TokenBar",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
@@ -9537,6 +9759,12 @@
         "repo":  "2FastLabs/agent-squad",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
+        "stars":  7805
+    },
+    {
+        "repo":  "2FastLabs/agent-squad",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
         "stars":  7805
     },
     {
@@ -9678,10 +9906,16 @@
         "stars":  21727
     },
     {
-        "repo":  "ITprogamatikDedSec/ai--manus",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  146
+        "repo":  "HBAI-Ltd/Toonflow-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  21811
+    },
+    {
+        "repo":  "WinnerBrokerBarrow/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  297
     },
     {
         "repo":  "infiniflow/ragflow",
@@ -9820,6 +10054,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  94131
+    },
+    {
+        "repo":  "infiniflow/ragflow",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  94163
     },
     {
         "repo":  "junxchan54-maker/mcd-cn-assistant",
@@ -10002,148 +10242,10 @@
         "stars":  63229
     },
     {
-        "repo":  "Floxaep1/manus--ai",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  146
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  54233
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  54406
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  54795
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  54966
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  55139
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  55305
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  55482
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  55834
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  55989
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  56218
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  56397
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  56551
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  56844
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  56967
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  57063
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  57150
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  57259
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  57473
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:27",
-        "stars":  57577
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  57674
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  57782
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  57868
-    },
-    {
-        "repo":  "bojieli/ai-agent-book",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  57959
+        "repo":  "BerriAI/litellm",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  63270
     },
     {
         "repo":  "microsoft/playwright-mcp",
@@ -10284,6 +10386,12 @@
         "stars":  39614
     },
     {
+        "repo":  "microsoft/playwright-mcp",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39657
+    },
+    {
         "repo":  "sickn33/agentic-awesome-skills",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -10420,6 +10528,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  49674
+    },
+    {
+        "repo":  "sickn33/agentic-awesome-skills",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  49722
     },
     {
         "repo":  "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies",
@@ -10572,6 +10686,84 @@
         "stars":  144600
     },
     {
+        "repo":  "Shubhamsaboo/awesome-llm-apps",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  144658
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  485
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  689
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  872
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  908
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  934
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  958
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  986
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  1047
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  1067
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  1085
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  1098
+    },
+    {
+        "repo":  "Tejashmakwana/motionmaxxing",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  1127
+    },
+    {
         "repo":  "vercel/ai",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -10708,6 +10900,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  27928
+    },
+    {
+        "repo":  "vercel/ai",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  27963
     },
     {
         "repo":  "sidvvkk/ai--manus",
@@ -10854,10 +11052,40 @@
         "stars":  56072
     },
     {
-        "repo":  "PegasusPorter/chatgpt-full-unlocked",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  123
+        "repo":  "multica-ai/multica",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  56136
+    },
+    {
+        "repo":  "hitkeeen/blender-ai-addon",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  217
+    },
+    {
+        "repo":  "hitkeeen/blender-ai-addon",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  217
+    },
+    {
+        "repo":  "hitkeeen/blender-ai-addon",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  217
+    },
+    {
+        "repo":  "hitkeeen/blender-ai-addon",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  217
+    },
+    {
+        "repo":  "hitkeeen/blender-ai-addon",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  218
     },
     {
         "repo":  "rambotronado112-sudo/manus--ai",
@@ -11064,34 +11292,10 @@
         "stars":  42495
     },
     {
-        "repo":  "diegosouzapw/OmniRoute",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  76619
-    },
-    {
-        "repo":  "diegosouzapw/OmniRoute",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  77030
-    },
-    {
-        "repo":  "diegosouzapw/OmniRoute",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  78148
-    },
-    {
-        "repo":  "diegosouzapw/OmniRoute",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  78554
-    },
-    {
-        "repo":  "diegosouzapw/OmniRoute",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  78974
+        "repo":  "wshobson/agents",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  42523
     },
     {
         "repo":  "Microqian2th/dsh-codex-effort-slider",
@@ -11460,6 +11664,12 @@
         "stars":  330
     },
     {
+        "repo":  "mrhlaingbwardev/agentic-hacking-skills",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  330
+    },
+    {
         "repo":  "Canner/WrenAI",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -11598,6 +11808,12 @@
         "stars":  18181
     },
     {
+        "repo":  "Canner/WrenAI",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  18244
+    },
+    {
         "repo":  "HKUDS/Vibe-Trading",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -11704,6 +11920,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  9866
+    },
+    {
+        "repo":  "nexu-io/openmotion",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  9970
     },
     {
         "repo":  "liyupi/ai-guide",
@@ -11844,6 +12066,18 @@
         "stars":  22087
     },
     {
+        "repo":  "liyupi/ai-guide",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  22109
+    },
+    {
+        "repo":  "toppatronweave/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  665
+    },
+    {
         "repo":  "0xCoach/TaoSheng",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
@@ -11878,6 +12112,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  386
+    },
+    {
+        "repo":  "0xCoach/TaoSheng",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  395
     },
     {
         "repo":  "langbot-app/LangBot",
@@ -12018,100 +12258,40 @@
         "stars":  18974
     },
     {
-        "repo":  "zhuyansen/new-term-radar",
+        "repo":  "langbot-app/LangBot",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  19001
+    },
+    {
+        "repo":  "diegosouzapw/OmniRoute",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  955
+        "stars":  76619
     },
     {
-        "repo":  "zhuyansen/new-term-radar",
+        "repo":  "diegosouzapw/OmniRoute",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  1024
+        "stars":  77030
     },
     {
-        "repo":  "zhuyansen/new-term-radar",
+        "repo":  "diegosouzapw/OmniRoute",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  1110
+        "stars":  78148
     },
     {
-        "repo":  "zhuyansen/new-term-radar",
+        "repo":  "diegosouzapw/OmniRoute",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  1131
+        "stars":  78554
     },
     {
-        "repo":  "zhuyansen/new-term-radar",
+        "repo":  "diegosouzapw/OmniRoute",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  1424
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  1608
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  1686
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  1794
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  1819
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  1874
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  1917
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  1964
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  2019
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  2049
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  2071
-    },
-    {
-        "repo":  "zhuyansen/new-term-radar",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  2099
+        "stars":  78974
     },
     {
         "repo":  "ai-shifu/ChatALL",
@@ -12306,6 +12486,18 @@
         "stars":  58710
     },
     {
+        "repo":  "pathwaycom/serviette",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  58706
+    },
+    {
+        "repo":  "BarrierCenter/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
+    },
+    {
         "repo":  "DietrichGebert/ponytail",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -12442,6 +12634,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  190469
+    },
+    {
+        "repo":  "DietrichGebert/ponytail",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  191027
+    },
+    {
+        "repo":  "TitanShieldRavine/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  659
     },
     {
         "repo":  "affaan-m/ECC",
@@ -12582,6 +12786,18 @@
         "stars":  302553
     },
     {
+        "repo":  "affaan-m/ECC",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  303329
+    },
+    {
+        "repo":  "violetkomodolimit/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  651
+    },
+    {
         "repo":  "HKUDS/DeepTutor",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -12720,6 +12936,12 @@
         "stars":  59008
     },
     {
+        "repo":  "HKUDS/DeepTutor",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  59293
+    },
+    {
         "repo":  "NirDiamant/RAG_Techniques",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -12856,6 +13078,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  30340
+    },
+    {
+        "repo":  "NirDiamant/RAG_Techniques",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  30341
     },
     {
         "repo":  "malevrigns/agent-jev",
@@ -13002,6 +13230,12 @@
         "stars":  21897
     },
     {
+        "repo":  "NirDiamant/agents-towards-production",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  21902
+    },
+    {
         "repo":  "code-yeongyu/oh-my-openagent",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -13138,6 +13372,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  70897
+    },
+    {
+        "repo":  "code-yeongyu/oh-my-openagent",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  70914
     },
     {
         "repo":  "VectifyAI/PageIndex",
@@ -13278,6 +13518,156 @@
         "stars":  40410
     },
     {
+        "repo":  "VectifyAI/PageIndex",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  40441
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  83237
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  83258
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  83311
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  83341
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  83367
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  83395
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  83427
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  83490
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  83510
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  83534
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  83568
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  83590
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  83678
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  83719
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  83784
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  83884
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  84047
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  84426
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  84593
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  84873
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  85027
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  85170
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  85453
+    },
+    {
+        "repo":  "lobehub/lobehub",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  85542
+    },
+    {
         "repo":  "zhayujie/CowAgent",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -13416,40 +13806,166 @@
         "stars":  47924
     },
     {
+        "repo":  "zhayujie/CowAgent",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  47938
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  26153
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  26166
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  26198
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  26210
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  26226
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  26239
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  26259
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  26293
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  26305
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  26315
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  26329
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  26342
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  26382
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  26400
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  26410
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  26416
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  26430
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  26456
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  26467
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  26480
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:29",
+        "stars":  26495
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  26510
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  26536
+    },
+    {
+        "repo":  "a2aproject/A2A",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  26539
+    },
+    {
         "repo":  "python001-dev/manus--ai",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  146
     },
     {
-        "repo":  "EverMind-AI/EverOS",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  13438
-    },
-    {
-        "repo":  "EverMind-AI/EverOS",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  13473
-    },
-    {
-        "repo":  "EverMind-AI/EverOS",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  13508
-    },
-    {
-        "repo":  "EverMind-AI/EverOS",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  13536
-    },
-    {
-        "repo":  "EverMind-AI/EverOS",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  13799
+        "repo":  "TurquoiseConsultant/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  664
     },
     {
         "repo":  "opendataloader-project/opendataloader-pdf",
@@ -13588,6 +14104,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  30298
+    },
+    {
+        "repo":  "opendataloader-project/opendataloader-pdf",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  30299
     },
     {
         "repo":  "openspline/openspline",
@@ -13746,124 +14268,160 @@
         "stars":  57959
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "hesreallyhim/awesome-claude-code",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  58027
+    },
+    {
+        "repo":  "ollama/ollama",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  35442
+        "stars":  183184
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  183330
+    },
+    {
+        "repo":  "ollama/ollama",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  35854
+        "stars":  183748
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  35961
+        "stars":  183870
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  36056
+        "ts":  "2026-10-21T08:32:51",
+        "stars":  184070
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  184208
+    },
+    {
+        "repo":  "ollama/ollama",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  184339
+    },
+    {
+        "repo":  "ollama/ollama",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  36591
+        "stars":  184755
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  36712
+        "stars":  184895
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-10-28",
         "ts":  "2026-10-28T08:31:58",
-        "stars":  36835
+        "stars":  185025
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
-        "stars":  36977
+        "stars":  185140
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-10-30",
         "ts":  "2026-10-30T08:37:35",
-        "stars":  37087
+        "stars":  185254
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
-        "stars":  37431
+        "stars":  185598
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
-        "stars":  37557
+        "stars":  185717
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-04",
         "ts":  "2026-11-04T08:29:15",
-        "stars":  37686
+        "stars":  185817
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-05",
         "ts":  "2026-11-05T08:32:49",
-        "stars":  37818
+        "stars":  185935
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
-        "stars":  37952
+        "stars":  186035
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  38270
+        "stars":  186382
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  38432
+        "ts":  "2026-11-10T00:37:27",
+        "stars":  186448
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-11",
         "ts":  "2026-11-11T00:47:10",
-        "stars":  38573
+        "stars":  186578
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:29",
-        "stars":  38709
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  186693
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
-        "stars":  38840
+        "stars":  186815
     },
     {
-        "repo":  "can1357/oh-my-pi",
+        "repo":  "ollama/ollama",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
-        "stars":  38978
+        "stars":  186911
+    },
+    {
+        "repo":  "ollama/ollama",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  187002
+    },
+    {
+        "repo":  "PegasusPorter/chatgpt-full-unlocked",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  123
     },
     {
         "repo":  "FoShmily/ai-paper-system",
@@ -14028,6 +14586,12 @@
         "stars":  377
     },
     {
+        "repo":  "JunWan666/astrbot-for-android",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  390
+    },
+    {
         "repo":  "flohoeller/affectui",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
@@ -14064,22 +14628,16 @@
         "stars":  315
     },
     {
-        "repo":  "matank001/clodfarm",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  192
+        "repo":  "TrapAccountant/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  670
     },
     {
-        "repo":  "matank001/clodfarm",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  195
-    },
-    {
-        "repo":  "matank001/clodfarm",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  200
+        "repo":  "ITprogamatikDedSec/ai--manus",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  146
     },
     {
         "repo":  "alibaba/zvec",
@@ -14196,6 +14754,12 @@
         "stars":  16238
     },
     {
+        "repo":  "alibaba/zvec",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  16243
+    },
+    {
         "repo":  "OpenMontageInc/OpenMontage",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
@@ -14230,6 +14794,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  80326
+    },
+    {
+        "repo":  "OpenMontageInc/OpenMontage",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  80547
     },
     {
         "repo":  "drawdb-io/drawdb",
@@ -14370,6 +14940,12 @@
         "stars":  40325
     },
     {
+        "repo":  "drawdb-io/drawdb",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  40328
+    },
+    {
         "repo":  "upstash/context7",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -14506,6 +15082,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  64773
+    },
+    {
+        "repo":  "upstash/context7",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  64820
     },
     {
         "repo":  "weike-zhang/ai-novel-studio",
@@ -14700,6 +15282,12 @@
         "stars":  69046
     },
     {
+        "repo":  "shanraisshan/claude-code-best-practice",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  69061
+    },
+    {
         "repo":  "openbq-org/OpenBB",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -14836,6 +15424,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  75402
+    },
+    {
+        "repo":  "openbq-org/OpenBB",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  75433
+    },
+    {
+        "repo":  "trackboatwrightplan/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  672
     },
     {
         "repo":  "Anil-matcha/Open-Generative-AI",
@@ -14976,6 +15576,12 @@
         "stars":  34564
     },
     {
+        "repo":  "Anil-matcha/Open-Generative-AI",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  34718
+    },
+    {
         "repo":  "0xPlaygrounds/rig",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -15112,6 +15718,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  9142
+    },
+    {
+        "repo":  "0xPlaygrounds/rig",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  9148
     },
     {
         "repo":  "Panniantong/Agent-Reach",
@@ -15252,22 +15864,160 @@
         "stars":  111625
     },
     {
+        "repo":  "Panniantong/Agent-Reach",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  111855
+    },
+    {
         "repo":  "kazim768/manus--ai",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  146
     },
     {
-        "repo":  "mrtinkz/ai-charter",
+        "repo":  "sansan0/TrendRadar",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  108
+        "stars":  62909
     },
     {
-        "repo":  "mrtinkz/ai-charter",
+        "repo":  "sansan0/TrendRadar",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  108
+        "stars":  62923
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  63003
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  63029
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  63054
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  63083
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  63116
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  63171
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  63211
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  63233
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  63263
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  63292
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  63348
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  63367
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  63399
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  63436
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  63468
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  63524
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:27",
+        "stars":  63554
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  63573
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  63592
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  63612
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  63627
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  63639
     },
     {
         "repo":  "microsoft/graphrag",
@@ -15408,6 +16158,12 @@
         "stars":  36643
     },
     {
+        "repo":  "microsoft/graphrag",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  36649
+    },
+    {
         "repo":  "shadcn-ui/ui",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -15546,6 +16302,12 @@
         "stars":  128146
     },
     {
+        "repo":  "shadcn-ui/ui",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  128211
+    },
+    {
         "repo":  "ChromeDevTools/chrome-devtools-mcp",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -15682,6 +16444,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  55654
+    },
+    {
+        "repo":  "ChromeDevTools/chrome-devtools-mcp",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  56457
     },
     {
         "repo":  "Fincept-Corporation/FinceptTerminal",
@@ -15828,6 +16596,18 @@
         "stars":  87232
     },
     {
+        "repo":  "cheaper-inference/OmniRoute",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  87543
+    },
+    {
+        "repo":  "taboospecialistblade/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  651
+    },
+    {
         "repo":  "Redderz-code/manus--ai",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
@@ -15972,6 +16752,12 @@
         "stars":  108821
     },
     {
+        "repo":  "google-gemini/gemini-cli",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  108837
+    },
+    {
         "repo":  "rasbt/LLMs-from-scratch",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -16108,6 +16894,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  108378
+    },
+    {
+        "repo":  "rasbt/LLMs-from-scratch",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  108427
     },
     {
         "repo":  "Ronni35/ai--manus",
@@ -16254,6 +17046,12 @@
         "stars":  68932
     },
     {
+        "repo":  "mem0ai/mem0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  68992
+    },
+    {
         "repo":  "ruvnet/ruflo",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -16390,6 +17188,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  81659
+    },
+    {
+        "repo":  "ruvnet/ruflo",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  81737
     },
     {
         "repo":  "NuvexNetwork/nuvex-services",
@@ -16560,6 +17364,12 @@
         "stars":  16869
     },
     {
+        "repo":  "MODSetter/SurfSense",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  16877
+    },
+    {
         "repo":  "rtk-ai/rtk",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -16696,6 +17506,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  86523
+    },
+    {
+        "repo":  "rtk-ai/rtk",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  86606
+    },
+    {
+        "repo":  "toppatronweave/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  665
     },
     {
         "repo":  "GoogleCloudPlatform/generative-ai",
@@ -16836,6 +17658,18 @@
         "stars":  17882
     },
     {
+        "repo":  "GoogleCloudPlatform/generative-ai",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  17903
+    },
+    {
+        "repo":  "Tonephorepair/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  650
+    },
+    {
         "repo":  "NirDiamant/GenAI_Agents",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -16972,6 +17806,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  24962
+    },
+    {
+        "repo":  "NirDiamant/GenAI_Agents",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  24971
+    },
+    {
+        "repo":  "armsworminterface/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  297
     },
     {
         "repo":  "WLfear/manus--ai",
@@ -17118,6 +17964,12 @@
         "stars":  50882
     },
     {
+        "repo":  "herdrdev/herdr",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  51030
+    },
+    {
         "repo":  "blader/humanizer",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -17254,6 +18106,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  68907
+    },
+    {
+        "repo":  "blader/humanizer",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  69210
     },
     {
         "repo":  "labring/FastGPT",
@@ -17394,6 +18252,12 @@
         "stars":  30037
     },
     {
+        "repo":  "labring/FastGPT",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  30036
+    },
+    {
         "repo":  "wandb/openui",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -17532,6 +18396,12 @@
         "stars":  22757
     },
     {
+        "repo":  "wandb/openui",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  22760
+    },
+    {
         "repo":  "DKKD13/dsh-finance",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
@@ -17662,6 +18532,18 @@
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
         "stars":  13589
+    },
+    {
+        "repo":  "TrueDefenderRouter/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  660
+    },
+    {
+        "repo":  "trackboatwrightplan/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  649
     },
     {
         "repo":  "virgiliojr94/book-to-skill",
@@ -17802,6 +18684,12 @@
         "stars":  37796
     },
     {
+        "repo":  "virgiliojr94/book-to-skill",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  37925
+    },
+    {
         "repo":  "tinyhumansai/openhuman",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -17938,6 +18826,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  42691
+    },
+    {
+        "repo":  "tinyhumansai/openhuman",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  42704
     },
     {
         "repo":  "DavidHDev/react-bits",
@@ -18138,6 +19032,156 @@
         "stars":  79614
     },
     {
+        "repo":  "headroomlabs-ai/headroom",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  79683
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  31778
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  31798
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  31927
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  31989
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  32040
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  32102
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  32137
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  32220
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  32255
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  32283
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  32316
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  32350
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  32422
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  32444
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  32467
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  32502
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  32549
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  32635
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:27",
+        "stars":  32667
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  32704
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  32725
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  32750
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  32770
+    },
+    {
+        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  32786
+    },
+    {
         "repo":  "ItzCrazyKns/Vane",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -18282,6 +19326,12 @@
         "stars":  47226
     },
     {
+        "repo":  "anthropics/claude-plugins-official",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  47322
+    },
+    {
         "repo":  "free-cracks/Adobe-Acrobat-Pro",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
@@ -18312,22 +19362,292 @@
         "stars":  118
     },
     {
-        "repo":  "traceloop/openllmetry",
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  12739
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  12739
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  12741
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  12744
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  12744
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  12746
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  12748
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  12770
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  12775
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  12779
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  12782
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  12788
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  12795
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  12802
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  12804
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  12806
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  12811
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  7527
+        "stars":  12817
     },
     {
-        "repo":  "traceloop/openllmetry",
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  12818
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  12820
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:29",
+        "stars":  12824
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
-        "stars":  7532
+        "stars":  12831
     },
     {
-        "repo":  "traceloop/openllmetry",
+        "repo":  "steven2358/awesome-generative-ai",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
-        "stars":  7532
+        "stars":  12830
+    },
+    {
+        "repo":  "steven2358/awesome-generative-ai",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  12833
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  144266
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  144733
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  145840
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  146347
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  146804
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  147225
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  147675
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  148584
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  148964
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  149380
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  149730
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  150065
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  150877
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  151216
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  151521
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  151832
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  152103
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  152752
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  153057
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  153340
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  153659
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  153946
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  154288
+    },
+    {
+        "repo":  "farion1231/cc-switch",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  154490
     },
     {
         "repo":  "qweqeqeqweqeqwe/ai--manus",
@@ -18510,58 +19830,10 @@
         "stars":  24191
     },
     {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  240
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  122
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  240
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  241
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  241
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  241
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  267
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  268
-    },
-    {
-        "repo":  "developeryj1992/ai-trend-studio",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  280
+        "repo":  "topconstableinlet67/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  661
     },
     {
         "repo":  "semantica-agi/semantica",
@@ -18702,6 +19974,18 @@
         "stars":  14602
     },
     {
+        "repo":  "semantica-agi/semantica",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  14610
+    },
+    {
+        "repo":  "unitsenseimonitor/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  661
+    },
+    {
         "repo":  "DeusData/codebase-memory-mcp",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -18838,6 +20122,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  48614
+    },
+    {
+        "repo":  "DeusData/codebase-memory-mcp",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  48652
     },
     {
         "repo":  "wildminder/awesome-qwen-image",
@@ -18990,6 +20280,12 @@
         "stars":  44936
     },
     {
+        "repo":  "langchain-ai/langgraph",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  44978
+    },
+    {
         "repo":  "dramaclaw/dramaclaw",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T06:08:32",
@@ -19024,6 +20320,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  7700
+    },
+    {
+        "repo":  "dramaclaw/dramaclaw",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  7710
     },
     {
         "repo":  "nexu-io/open-design",
@@ -19164,6 +20466,12 @@
         "stars":  107552
     },
     {
+        "repo":  "nexu-io/open-design",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  107681
+    },
+    {
         "repo":  "teraus111/web3-agent-kit-solana-trading",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
@@ -19275,6 +20583,12 @@
         "repo":  "shipwords-dev/shipwords",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
+        "stars":  372
+    },
+    {
+        "repo":  "shipwords-dev/shipwords",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
         "stars":  372
     },
     {
@@ -19416,6 +20730,12 @@
         "stars":  159559
     },
     {
+        "repo":  "Snailclimb/JavaGuide",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  159560
+    },
+    {
         "repo":  "Netflix/metaflow",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -19551,6 +20871,12 @@
         "repo":  "Netflix/metaflow",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
+        "stars":  10348
+    },
+    {
+        "repo":  "Netflix/metaflow",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
         "stars":  10348
     },
     {
@@ -19692,6 +21018,12 @@
         "stars":  90613
     },
     {
+        "repo":  "koala73/worldmonitor",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  90659
+    },
+    {
         "repo":  "netdata/netdata",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -19830,6 +21162,12 @@
         "stars":  81406
     },
     {
+        "repo":  "netdata/netdata",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  81421
+    },
+    {
         "repo":  "whirlchat/whirl",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -19884,148 +21222,166 @@
         "stars":  146
     },
     {
+        "repo":  "mrtinkz/ai-charter",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  108
+    },
+    {
+        "repo":  "mrtinkz/ai-charter",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  108
+    },
+    {
         "repo":  "arberpilafi8-blip/ai--manus",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  146
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  31778
+        "stars":  38689
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  31798
+        "stars":  38870
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  31927
+        "stars":  39343
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  31989
+        "stars":  39543
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  32040
+        "stars":  39898
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  32102
+        "stars":  40155
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-23",
         "ts":  "2026-10-23T08:27:32",
-        "stars":  32137
+        "stars":  40339
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  32220
+        "stars":  40670
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  32255
+        "stars":  40793
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-28",
         "ts":  "2026-10-28T08:31:58",
-        "stars":  32283
+        "stars":  41000
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
-        "stars":  32316
+        "stars":  41119
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-10-30",
         "ts":  "2026-10-30T08:37:35",
-        "stars":  32350
+        "stars":  41243
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
-        "stars":  32422
+        "stars":  41509
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
-        "stars":  32444
+        "stars":  41622
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-04",
         "ts":  "2026-11-04T08:29:15",
-        "stars":  32467
+        "stars":  41682
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-05",
         "ts":  "2026-11-05T08:32:49",
-        "stars":  32502
+        "stars":  41732
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
-        "stars":  32549
+        "stars":  41809
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  32635
+        "stars":  42016
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:27",
-        "stars":  32667
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  42067
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-11",
         "ts":  "2026-11-11T00:47:10",
-        "stars":  32704
+        "stars":  42128
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  32725
+        "ts":  "2026-11-12T00:38:29",
+        "stars":  42198
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
-        "stars":  32750
+        "stars":  42260
     },
     {
-        "repo":  "ScrapeGraphAI/Scrapegraph-ai",
+        "repo":  "lyogavin/airllm",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
-        "stars":  32770
+        "stars":  42334
+    },
+    {
+        "repo":  "lyogavin/airllm",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  42418
     },
     {
         "repo":  "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
@@ -20086,6 +21442,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  39056
+    },
+    {
+        "repo":  "Donchitos/Claude-Code-Game-Studios",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39372
     },
     {
         "repo":  "paperless-ngx/paperless-ngx",
@@ -20226,6 +21588,12 @@
         "stars":  48101
     },
     {
+        "repo":  "paperless-ngx/paperless-ngx",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  48130
+    },
+    {
         "repo":  "Mintplex-Labs/anything-llm",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -20362,6 +21730,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  68257
+    },
+    {
+        "repo":  "Mintplex-Labs/anything-llm",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  68290
     },
     {
         "repo":  "vllm-project/vllm",
@@ -20502,6 +21876,12 @@
         "stars":  96892
     },
     {
+        "repo":  "vllm-project/vllm",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  96943
+    },
+    {
         "repo":  "Kong/kong",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -20640,6 +22020,12 @@
         "stars":  44380
     },
     {
+        "repo":  "Kong/kong",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  44378
+    },
+    {
         "repo":  "rockbenben/ChatGPT-Shortcut",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -20775,6 +22161,12 @@
         "repo":  "rockbenben/ChatGPT-Shortcut",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
+        "stars":  8951
+    },
+    {
+        "repo":  "rockbenben/ChatGPT-Shortcut",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
         "stars":  8951
     },
     {
@@ -20934,6 +22326,12 @@
         "stars":  37409
     },
     {
+        "repo":  "Tencent/WeKnora",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  37438
+    },
+    {
         "repo":  "career-ops-hq/career-ops",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -21070,6 +22468,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  82435
+    },
+    {
+        "repo":  "career-ops-hq/career-ops",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  82625
+    },
+    {
+        "repo":  "HurricaneMonarchDart/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
     },
     {
         "repo":  "ahujasid/mcp-for-blender",
@@ -21210,6 +22620,12 @@
         "stars":  34347
     },
     {
+        "repo":  "ahujasid/mcp-for-blender",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  34463
+    },
+    {
         "repo":  "1Panel-dev/MaxKB",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -21346,6 +22762,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  23155
+    },
+    {
+        "repo":  "1Panel-dev/MaxKB",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  23158
     },
     {
         "repo":  "ShadowSafin/Synapass",
@@ -21522,6 +22944,12 @@
         "stars":  188019
     },
     {
+        "repo":  "Significant-Gravitas/AutoGPT",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  188029
+    },
+    {
         "repo":  "run-llama/llama_index",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -21660,6 +23088,12 @@
         "stars":  52894
     },
     {
+        "repo":  "run-llama/llama_index",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  52906
+    },
+    {
         "repo":  "amitshekhariitbhu/ai-system-design",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -21678,58 +23112,148 @@
         "stars":  720
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  44949
+        "stars":  111206
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  44962
+        "stars":  111388
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  45003
+        "stars":  111918
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  45016
+        "stars":  112121
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  45023
+        "ts":  "2026-10-21T08:32:51",
+        "stars":  112342
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  45034
+        "stars":  112578
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-23",
         "ts":  "2026-10-23T08:27:32",
-        "stars":  45048
+        "stars":  113019
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  45086
+        "stars":  114595
     },
     {
-        "repo":  "janhq/jan",
+        "repo":  "TauricResearch/TradingAgents",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  45108
+        "stars":  116074
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  117317
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  117883
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  118327
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  119529
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  119969
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  120352
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  120638
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  120828
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  121383
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:27",
+        "stars":  121625
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  121880
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  122108
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  122310
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  122484
+    },
+    {
+        "repo":  "TauricResearch/TradingAgents",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  122626
     },
     {
         "repo":  "Lightricks/LTX-2",
@@ -21870,6 +23394,12 @@
         "stars":  10232
     },
     {
+        "repo":  "Lightricks/LTX-2",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  10240
+    },
+    {
         "repo":  "ashishpatel26/500-AI-Agents-Projects",
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
@@ -21910,6 +23440,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  39834
+    },
+    {
+        "repo":  "ashishpatel26/500-AI-Agents-Projects",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39881
     },
     {
         "repo":  "elizaOS/eliza",
@@ -22048,6 +23584,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  19872
+    },
+    {
+        "repo":  "elizaOS/eliza",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  19876
+    },
+    {
+        "repo":  "TrapBladesmith/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  653
     },
     {
         "repo":  "thesysdev/open-intelligent-ui",
@@ -22392,6 +23940,12 @@
         "stars":  79468
     },
     {
+        "repo":  "unslothai/unsloth",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  79520
+    },
+    {
         "repo":  "pbakaus/impeccable",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
@@ -22468,6 +24022,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  109751
+    },
+    {
+        "repo":  "pbakaus/impeccable",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  110337
     },
     {
         "repo":  "harry0703/MoneyPrinterTurbo",
@@ -22608,6 +24168,12 @@
         "stars":  143366
     },
     {
+        "repo":  "harry0703/MoneyPrinterTurbo",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  143638
+    },
+    {
         "repo":  "xerj-org/xerj",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
@@ -22696,6 +24262,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  19045
+    },
+    {
+        "repo":  "xerj-org/xerj",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  19090
     },
     {
         "repo":  "thedotmack/claude-mem",
@@ -22834,6 +24406,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  116901
+    },
+    {
+        "repo":  "thedotmack/claude-mem",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  117169
     },
     {
         "repo":  "microsoft/qlib",
@@ -22984,6 +24562,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  10892
+    },
+    {
+        "repo":  "Acly/krita-ai-diffusion",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  10899
     },
     {
         "repo":  "strands-labs/strands-decider",
@@ -23164,6 +24748,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  71854
+    },
+    {
+        "repo":  "ZhuLinsen/daily_stock_analysis",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  72306
+    },
+    {
+        "repo":  "topconstableinlet67/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  663
     },
     {
         "repo":  "mankidev/codixel",
@@ -23350,6 +24946,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  201625
+    },
+    {
+        "repo":  "firecrawl/firecrawl",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  201865
     },
     {
         "repo":  "nexu-io/html-anything",
@@ -23634,142 +25236,10 @@
         "stars":  27004
     },
     {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  62909
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  62923
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  63003
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  63029
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  63054
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  63083
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  63116
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  63171
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  63211
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  63233
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  63263
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  63292
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  63348
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  63367
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  63399
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  63436
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  63468
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  63524
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:27",
-        "stars":  63554
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  63573
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  63592
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  63612
-    },
-    {
-        "repo":  "sansan0/TrendRadar",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  63627
+        "repo":  "deepset-ai/haystack",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  27009
     },
     {
         "repo":  "BlenderGPT3D/blender-ai-addon",
@@ -23836,6 +25306,168 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  247
+    },
+    {
+        "repo":  "matank001/clodfarm",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  192
+    },
+    {
+        "repo":  "matank001/clodfarm",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  195
+    },
+    {
+        "repo":  "matank001/clodfarm",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  200
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  31752
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-16",
+        "ts":  "2026-10-16T08:24:11",
+        "stars":  31797
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  31982
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  32048
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  32089
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-22",
+        "ts":  "2026-10-22T08:33:52",
+        "stars":  32115
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-23",
+        "ts":  "2026-10-23T08:27:32",
+        "stars":  32150
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  32210
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  32250
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  32283
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  32313
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  32343
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  32415
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  32455
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  32493
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  32527
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  32572
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  32664
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:27",
+        "stars":  32688
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  32722
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:28",
+        "stars":  32759
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  32780
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  32799
+    },
+    {
+        "repo":  "getzep/graphiti",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  32814
     },
     {
         "repo":  "LibreChat-AI/LibreChat",
@@ -23976,6 +25608,12 @@
         "stars":  47113
     },
     {
+        "repo":  "LibreChat-AI/LibreChat",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  47138
+    },
+    {
         "repo":  "aishwaryanr/awesome-generative-ai-guide",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -24112,6 +25750,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  30265
+    },
+    {
+        "repo":  "aishwaryanr/awesome-generative-ai-guide",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  30273
     },
     {
         "repo":  "Axillios1/ai--manus",
@@ -24258,6 +25902,12 @@
         "stars":  85322
     },
     {
+        "repo":  "bytedance/deer-flow",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  85351
+    },
+    {
         "repo":  "dyad-sh/dyad",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -24394,6 +26044,18 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  22292
+    },
+    {
+        "repo":  "dyad-sh/dyad",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  22297
+    },
+    {
+        "repo":  "TremorRatTackle/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  652
     },
     {
         "repo":  "simstudioai/sim",
@@ -24534,6 +26196,12 @@
         "stars":  30133
     },
     {
+        "repo":  "simstudioai/sim",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  30138
+    },
+    {
         "repo":  "MadsLorentzen/ai-job-search",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -24564,142 +26232,58 @@
         "stars":  60556
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  54759
+        "stars":  44949
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  54900
+        "stars":  44962
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  55380
+        "stars":  45003
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  55556
+        "stars":  45016
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  55689
+        "stars":  45023
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  55838
+        "stars":  45034
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-23",
         "ts":  "2026-10-23T08:27:32",
-        "stars":  56048
+        "stars":  45048
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  56525
+        "stars":  45086
     },
     {
-        "repo":  "coreyhaines31/marketingskills",
+        "repo":  "janhq/jan",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  56693
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  56909
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  57129
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  57336
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  57855
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  58101
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  58315
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  58522
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  58734
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  59238
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:27",
-        "stars":  59421
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  59593
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  59789
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  59967
-    },
-    {
-        "repo":  "coreyhaines31/marketingskills",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  60208
+        "stars":  45108
     },
     {
         "repo":  "AstrBotDevs/AstrBot",
@@ -24840,6 +26424,12 @@
         "stars":  46868
     },
     {
+        "repo":  "AstrBotDevs/AstrBot",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  46934
+    },
+    {
         "repo":  "codewhale-hq/Codewhale",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -24976,6 +26566,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  41173
+    },
+    {
+        "repo":  "codewhale-hq/Codewhale",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  41176
     },
     {
         "repo":  "hanzohanzhe/Grandet",
@@ -25170,148 +26766,22 @@
         "stars":  56578
     },
     {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  38689
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  38870
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  39343
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  39543
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  39898
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  40155
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  40339
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  40670
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  40793
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  41000
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  41119
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  41243
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  41509
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  41622
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  41682
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  41732
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  41809
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  42016
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  42067
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  42128
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:29",
-        "stars":  42198
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  42260
-    },
-    {
-        "repo":  "lyogavin/airllm",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  42334
+        "repo":  "aaif-goose/goose",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  56629
     },
     {
         "repo":  "python001-dev/ai--manus",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  146
+    },
+    {
+        "repo":  "trackersnailgrip/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  654
     },
     {
         "repo":  "dottxt-ai/outlines",
@@ -25542,6 +27012,36 @@
         "stars":  96269
     },
     {
+        "repo":  "tt-a1i/archify",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  96508
+    },
+    {
+        "repo":  "traceloop/openllmetry",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  7527
+    },
+    {
+        "repo":  "traceloop/openllmetry",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  7532
+    },
+    {
+        "repo":  "traceloop/openllmetry",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  7532
+    },
+    {
+        "repo":  "traceloop/openllmetry",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  7536
+    },
+    {
         "repo":  "crewAIInc/crewAI",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -25678,6 +27178,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  60874
+    },
+    {
+        "repo":  "crewAIInc/crewAI",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  60922
     },
     {
         "repo":  "langchain-ai/langchain",
@@ -25818,6 +27324,12 @@
         "stars":  149475
     },
     {
+        "repo":  "langchain-ai/langchain",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  149531
+    },
+    {
         "repo":  "microsoft/generative-ai-for-beginners",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -25956,6 +27468,12 @@
         "stars":  123467
     },
     {
+        "repo":  "microsoft/generative-ai-for-beginners",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  123535
+    },
+    {
         "repo":  "LosaLosSantos/aurelio-finance",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -26028,214 +27546,112 @@
         "stars":  328
     },
     {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  28838
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  28851
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  28897
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  28914
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  28937
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  28961
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  28980
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  29023
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  29036
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  29048
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  29062
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  29074
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  29111
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  29124
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  29141
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  29158
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  29160
-    },
-    {
-        "repo":  "yamadashy/repomix",
+        "repo":  "elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  29191
+        "stars":  311
     },
     {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  29205
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  29222
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:29",
-        "stars":  29232
-    },
-    {
-        "repo":  "yamadashy/repomix",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  29251
-    },
-    {
-        "repo":  "yamadashy/repomix",
+        "repo":  "xombiensar/ai--manus",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
-        "stars":  29264
+        "stars":  146
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  485
+        "stars":  955
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  689
+        "stars":  1024
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  872
+        "stars":  1110
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  908
+        "stars":  1131
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  934
+        "stars":  1424
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  958
+        "stars":  1608
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-23",
         "ts":  "2026-10-23T08:27:32",
-        "stars":  986
+        "stars":  1686
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  1047
+        "stars":  1794
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  1067
+        "stars":  1819
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-28",
         "ts":  "2026-10-28T08:31:58",
-        "stars":  1085
+        "stars":  1874
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
-        "stars":  1098
+        "stars":  1917
     },
     {
-        "repo":  "Tejashmakwana/motionmaxxing",
+        "repo":  "zhuyansen/new-term-radar",
         "date":  "2026-10-30",
         "ts":  "2026-10-30T08:37:35",
-        "stars":  1127
+        "stars":  1964
+    },
+    {
+        "repo":  "zhuyansen/new-term-radar",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  2019
+    },
+    {
+        "repo":  "zhuyansen/new-term-radar",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  2049
+    },
+    {
+        "repo":  "zhuyansen/new-term-radar",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  2071
+    },
+    {
+        "repo":  "zhuyansen/new-term-radar",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  2099
     },
     {
         "repo":  "ai-job-search-dev/ai-job-search",
@@ -26344,6 +27760,144 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  71631
+    },
+    {
+        "repo":  "ai-job-search-dev/ai-job-search",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  71783
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-15",
+        "ts":  "2026-10-15T08:31:28",
+        "stars":  35442
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-19",
+        "ts":  "2026-10-19T08:29:51",
+        "stars":  35854
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-20",
+        "ts":  "2026-10-20T08:27:37",
+        "stars":  35961
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-21",
+        "ts":  "2026-10-21T08:32:52",
+        "stars":  36056
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-26",
+        "ts":  "2026-10-26T08:31:13",
+        "stars":  36591
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-27",
+        "ts":  "2026-10-27T08:24:02",
+        "stars":  36712
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-28",
+        "ts":  "2026-10-28T08:31:58",
+        "stars":  36835
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-29",
+        "ts":  "2026-10-29T08:32:40",
+        "stars":  36977
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-10-30",
+        "ts":  "2026-10-30T08:37:35",
+        "stars":  37087
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-02",
+        "ts":  "2026-11-02T08:37:00",
+        "stars":  37431
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-03",
+        "ts":  "2026-11-03T08:32:02",
+        "stars":  37557
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-04",
+        "ts":  "2026-11-04T08:29:15",
+        "stars":  37686
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-05",
+        "ts":  "2026-11-05T08:32:49",
+        "stars":  37818
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-06",
+        "ts":  "2026-11-06T08:33:14",
+        "stars":  37952
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-09",
+        "ts":  "2026-11-09T08:50:56",
+        "stars":  38270
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-10",
+        "ts":  "2026-11-10T00:37:28",
+        "stars":  38432
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-11",
+        "ts":  "2026-11-11T00:47:10",
+        "stars":  38573
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-12",
+        "ts":  "2026-11-12T00:38:29",
+        "stars":  38709
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-13",
+        "ts":  "2026-11-13T00:31:40",
+        "stars":  38840
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  38978
+    },
+    {
+        "repo":  "can1357/oh-my-pi",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  39053
+    },
+    {
+        "repo":  "AdmiralEmporium/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
     },
     {
         "repo":  "langgenius/dify",
@@ -26484,142 +28038,40 @@
         "stars":  161126
     },
     {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  83237
+        "repo":  "langgenius/dify",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  161181
     },
     {
-        "repo":  "lobehub/lobehub",
+        "repo":  "EverMind-AI/EverOS",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  83258
+        "stars":  13438
     },
     {
-        "repo":  "lobehub/lobehub",
+        "repo":  "EverMind-AI/EverOS",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  83311
+        "stars":  13473
     },
     {
-        "repo":  "lobehub/lobehub",
+        "repo":  "EverMind-AI/EverOS",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  83341
+        "stars":  13508
     },
     {
-        "repo":  "lobehub/lobehub",
+        "repo":  "EverMind-AI/EverOS",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  83367
+        "stars":  13536
     },
     {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  83395
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  83427
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  83490
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  83510
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  83534
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  83568
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  83590
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  83678
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  83719
-    },
-    {
-        "repo":  "lobehub/lobehub",
+        "repo":  "EverMind-AI/EverOS",
         "date":  "2026-11-04",
         "ts":  "2026-11-04T08:29:15",
-        "stars":  83784
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  83884
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  84047
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  84426
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  84593
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  84873
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  85027
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  85170
-    },
-    {
-        "repo":  "lobehub/lobehub",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  85453
+        "stars":  13799
     },
     {
         "repo":  "kyegomez/open-jev",
@@ -26766,6 +28218,12 @@
         "stars":  113745
     },
     {
+        "repo":  "paperclipai/paperclip",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  113975
+    },
+    {
         "repo":  "Ebony-Vinyl/dsh-our-free-model",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
@@ -26872,6 +28330,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  73192
+    },
+    {
+        "repo":  "Ebony-Vinyl/dsh-our-free-model",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  74767
     },
     {
         "repo":  "calesthio/OpenMontage",
@@ -27114,6 +28578,12 @@
         "stars":  17569
     },
     {
+        "repo":  "MemoriLabs/Memori",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  17582
+    },
+    {
         "repo":  "mtn-imran-khan/manus--ai",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
@@ -27256,6 +28726,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  47217
+    },
+    {
+        "repo":  "siyuan-note/siyuan",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  47233
     },
     {
         "repo":  "bytedance/UI-TARS-desktop",
@@ -27546,6 +29022,12 @@
         "stars":  33386
     },
     {
+        "repo":  "onyx-dot-app/onyx",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  33403
+    },
+    {
         "repo":  "hevnsnt/CVEngine",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
@@ -27640,6 +29122,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  715
+    },
+    {
+        "repo":  "hevnsnt/CVEngine",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  724
     },
     {
         "repo":  "datalab-to/indra",
@@ -27744,6 +29232,36 @@
         "stars":  1646
     },
     {
+        "repo":  "Topkiflare74/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  678
+    },
+    {
+        "repo":  "GryphonEmpress/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
+    },
+    {
+        "repo":  "Torusdrasocket/ai--manus2.0",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  653
+    },
+    {
+        "repo":  "trackersnailgrip/GitHub-Copilot-app",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  666
+    },
+    {
+        "repo":  "TorusBarbarianMap9/ai--manus",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  296
+    },
+    {
         "repo":  "hhtower/price-comparison",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
@@ -27808,6 +29326,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  311
+    },
+    {
+        "repo":  "hhtower/price-comparison",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  312
     },
     {
         "repo":  "dipakkr/awesome-ai-engineering",
@@ -27916,6 +29440,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  22569
+    },
+    {
+        "repo":  "dipakkr/awesome-ai-engineering",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  22568
     },
     {
         "repo":  "eosphoros-ai/DB-GPT",
@@ -28056,6 +29586,12 @@
         "stars":  20294
     },
     {
+        "repo":  "eosphoros-ai/DB-GPT",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  20297
+    },
+    {
         "repo":  "addyosmani/agent-skills",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -28192,6 +29728,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  117236
+    },
+    {
+        "repo":  "addyosmani/agent-skills",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  117658
     },
     {
         "repo":  "x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -28332,418 +29874,214 @@
         "stars":  144664
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  144673
+    },
+    {
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  74465
+        "stars":  54233
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  74476
+        "stars":  54406
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  74501
+        "stars":  54795
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  74517
+        "stars":  54966
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  74526
+        "stars":  55139
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  74539
+        "stars":  55305
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-23",
         "ts":  "2026-10-23T08:27:32",
-        "stars":  74548
+        "stars":  55482
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  74563
+        "stars":  55834
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  74569
+        "stars":  55989
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-28",
         "ts":  "2026-10-28T08:31:58",
-        "stars":  74577
+        "stars":  56218
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
-        "stars":  74587
+        "stars":  56397
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-10-30",
         "ts":  "2026-10-30T08:37:35",
-        "stars":  74598
+        "stars":  56551
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
-        "stars":  74621
+        "stars":  56844
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
-        "stars":  74637
+        "stars":  56967
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-04",
         "ts":  "2026-11-04T08:29:15",
-        "stars":  74643
+        "stars":  57063
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-05",
         "ts":  "2026-11-05T08:32:49",
-        "stars":  74647
+        "stars":  57150
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
-        "stars":  74658
+        "stars":  57259
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  74679
+        "stars":  57473
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-10",
         "ts":  "2026-11-10T00:37:27",
-        "stars":  74686
+        "stars":  57577
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-11",
         "ts":  "2026-11-11T00:47:10",
-        "stars":  74698
+        "stars":  57674
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-12",
         "ts":  "2026-11-12T00:38:28",
-        "stars":  74711
+        "stars":  57782
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
-        "stars":  74711
+        "stars":  57868
     },
     {
-        "repo":  "thedaviddias/Front-End-Checklist",
+        "repo":  "bojieli/ai-agent-book",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
-        "stars":  74728
+        "stars":  57959
     },
     {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  144266
+        "repo":  "bojieli/ai-agent-book",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  58081
     },
     {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  144733
+        "repo":  "Floxaep1/manus--ai",
+        "date":  "2026-11-14",
+        "ts":  "2026-11-14T06:27:26",
+        "stars":  146
     },
     {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  145840
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  146347
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  146804
-    },
-    {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  147225
+        "stars":  240
     },
     {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  147675
-    },
-    {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  148584
+        "stars":  122
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  148964
+        "stars":  240
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-10-28",
         "ts":  "2026-10-28T08:31:58",
-        "stars":  149380
+        "stars":  241
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
-        "stars":  149730
+        "stars":  241
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-10-30",
         "ts":  "2026-10-30T08:37:35",
-        "stars":  150065
+        "stars":  241
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
-        "stars":  150877
+        "stars":  267
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
-        "stars":  151216
+        "stars":  268
     },
     {
-        "repo":  "farion1231/cc-switch",
+        "repo":  "developeryj1992/ai-trend-studio",
         "date":  "2026-11-04",
         "ts":  "2026-11-04T08:29:15",
-        "stars":  151521
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  151832
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  152103
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  152752
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  153057
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  153340
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:28",
-        "stars":  153659
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  153946
-    },
-    {
-        "repo":  "farion1231/cc-switch",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  154288
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-15",
-        "ts":  "2026-10-15T08:31:28",
-        "stars":  26153
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-16",
-        "ts":  "2026-10-16T08:24:11",
-        "stars":  26166
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-19",
-        "ts":  "2026-10-19T08:29:51",
-        "stars":  26198
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-20",
-        "ts":  "2026-10-20T08:27:37",
-        "stars":  26210
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-21",
-        "ts":  "2026-10-21T08:32:52",
-        "stars":  26226
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-22",
-        "ts":  "2026-10-22T08:33:52",
-        "stars":  26239
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-23",
-        "ts":  "2026-10-23T08:27:32",
-        "stars":  26259
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-26",
-        "ts":  "2026-10-26T08:31:13",
-        "stars":  26293
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-27",
-        "ts":  "2026-10-27T08:24:02",
-        "stars":  26305
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-28",
-        "ts":  "2026-10-28T08:31:58",
-        "stars":  26315
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-29",
-        "ts":  "2026-10-29T08:32:40",
-        "stars":  26329
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-10-30",
-        "ts":  "2026-10-30T08:37:35",
-        "stars":  26342
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-02",
-        "ts":  "2026-11-02T08:37:00",
-        "stars":  26382
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-03",
-        "ts":  "2026-11-03T08:32:02",
-        "stars":  26400
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-04",
-        "ts":  "2026-11-04T08:29:15",
-        "stars":  26410
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-05",
-        "ts":  "2026-11-05T08:32:49",
-        "stars":  26416
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-06",
-        "ts":  "2026-11-06T08:33:14",
-        "stars":  26430
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-09",
-        "ts":  "2026-11-09T08:50:56",
-        "stars":  26456
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-10",
-        "ts":  "2026-11-10T00:37:28",
-        "stars":  26467
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-11",
-        "ts":  "2026-11-11T00:47:10",
-        "stars":  26480
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-12",
-        "ts":  "2026-11-12T00:38:29",
-        "stars":  26495
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-13",
-        "ts":  "2026-11-13T00:31:40",
-        "stars":  26510
-    },
-    {
-        "repo":  "a2aproject/A2A",
-        "date":  "2026-11-14",
-        "ts":  "2026-11-14T06:27:26",
-        "stars":  26536
+        "stars":  280
     },
     {
         "repo":  "alchaincyf/nuwa-skill",
@@ -28780,6 +30118,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  38248
+    },
+    {
+        "repo":  "alchaincyf/nuwa-skill",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  38311
     },
     {
         "repo":  "bentoml/BentoML",
@@ -28920,6 +30264,12 @@
         "stars":  8940
     },
     {
+        "repo":  "bentoml/BentoML",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  8941
+    },
+    {
         "repo":  "sleepy-zone/ai-ref-library-cn",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
@@ -28983,6 +30333,12 @@
         "repo":  "sleepy-zone/ai-ref-library-cn",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
+        "stars":  768
+    },
+    {
+        "repo":  "sleepy-zone/ai-ref-library-cn",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
         "stars":  768
     },
     {
@@ -29124,6 +30480,12 @@
         "stars":  53499
     },
     {
+        "repo":  "CherryHQ/cherry-studio",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  53527
+    },
+    {
         "repo":  "K-Dense-AI/scientific-agent-skills",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -29260,6 +30622,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  57096
+    },
+    {
+        "repo":  "K-Dense-AI/scientific-agent-skills",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  57244
     },
     {
         "repo":  "stablyai/orca",
@@ -29400,6 +30768,12 @@
         "stars":  124502
     },
     {
+        "repo":  "stablyai/orca",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  125202
+    },
+    {
         "repo":  "jeecgboot/JeecgBoot",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
@@ -29536,6 +30910,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  48469
+    },
+    {
+        "repo":  "jeecgboot/JeecgBoot",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  48483
     },
     {
         "repo":  "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS",
@@ -29686,6 +31066,12 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  71369
+    },
+    {
+        "repo":  "asgeirtj/system_prompts_leaks",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  71421
     },
     {
         "repo":  "jose-perez-thecloudgroup/ai--manus",
@@ -29844,6 +31230,12 @@
         "stars":  210431
     },
     {
+        "repo":  "n8n-io/n8n",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  210538
+    },
+    {
         "repo":  "Innei/ryugi",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
@@ -29886,142 +31278,148 @@
         "stars":  399
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-15",
         "ts":  "2026-10-15T08:31:28",
-        "stars":  31752
+        "stars":  54759
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-16",
         "ts":  "2026-10-16T08:24:11",
-        "stars":  31797
+        "stars":  54900
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-19",
         "ts":  "2026-10-19T08:29:51",
-        "stars":  31982
+        "stars":  55380
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-20",
         "ts":  "2026-10-20T08:27:37",
-        "stars":  32048
+        "stars":  55556
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-21",
         "ts":  "2026-10-21T08:32:52",
-        "stars":  32089
+        "stars":  55689
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-22",
         "ts":  "2026-10-22T08:33:52",
-        "stars":  32115
+        "stars":  55838
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-23",
         "ts":  "2026-10-23T08:27:32",
-        "stars":  32150
+        "stars":  56048
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-26",
         "ts":  "2026-10-26T08:31:13",
-        "stars":  32210
+        "stars":  56525
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-27",
         "ts":  "2026-10-27T08:24:02",
-        "stars":  32250
+        "stars":  56693
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-28",
         "ts":  "2026-10-28T08:31:58",
-        "stars":  32283
+        "stars":  56909
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-29",
         "ts":  "2026-10-29T08:32:40",
-        "stars":  32313
+        "stars":  57129
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-10-30",
         "ts":  "2026-10-30T08:37:35",
-        "stars":  32343
+        "stars":  57336
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-02",
         "ts":  "2026-11-02T08:37:00",
-        "stars":  32415
+        "stars":  57855
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-03",
         "ts":  "2026-11-03T08:32:02",
-        "stars":  32455
+        "stars":  58101
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-04",
         "ts":  "2026-11-04T08:29:15",
-        "stars":  32493
+        "stars":  58315
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-05",
         "ts":  "2026-11-05T08:32:49",
-        "stars":  32527
+        "stars":  58522
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-06",
         "ts":  "2026-11-06T08:33:14",
-        "stars":  32572
+        "stars":  58734
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-09",
         "ts":  "2026-11-09T08:50:56",
-        "stars":  32664
+        "stars":  59238
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-10",
         "ts":  "2026-11-10T00:37:27",
-        "stars":  32688
+        "stars":  59421
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-11",
         "ts":  "2026-11-11T00:47:10",
-        "stars":  32722
+        "stars":  59593
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-12",
         "ts":  "2026-11-12T00:38:28",
-        "stars":  32759
+        "stars":  59789
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-13",
         "ts":  "2026-11-13T00:31:40",
-        "stars":  32780
+        "stars":  59967
     },
     {
-        "repo":  "getzep/graphiti",
+        "repo":  "coreyhaines31/marketingskills",
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
-        "stars":  32799
+        "stars":  60208
+    },
+    {
+        "repo":  "coreyhaines31/marketingskills",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  60393
     },
     {
         "repo":  "msitarzewski/agency-agents",
@@ -30160,5 +31558,11 @@
         "date":  "2026-11-14",
         "ts":  "2026-11-14T06:27:26",
         "stars":  168191
+    },
+    {
+        "repo":  "msitarzewski/agency-agents",
+        "date":  "2026-11-15",
+        "ts":  "2026-11-15T06:36:44",
+        "stars":  168402
     }
 ]
