@@ -671,5 +671,35 @@
         "repo":  "GoogleCloudPlatform/generative-ai",
         "date":  "2026-11-15",
         "id":  636693030
+    },
+    {
+        "repo":  "code-yeongyu/oh-my-openagent",
+        "date":  "2026-11-16",
+        "id":  1108837393
+    },
+    {
+        "repo":  "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+        "date":  "2026-11-16",
+        "id":  1439495600
+    },
+    {
+        "repo":  "mudler/LocalAI",
+        "date":  "2026-11-16",
+        "id":  615869301
+    },
+    {
+        "repo":  "siyuan-note/siyuan",
+        "date":  "2026-11-16",
+        "id":  291438522
+    },
+    {
+        "repo":  "Lightricks/LTX-2",
+        "date":  "2026-11-16",
+        "id":  1127234517
+    },
+    {
+        "repo":  "tinyhumansai/openhuman",
+        "date":  "2026-11-16",
+        "id":  1161163182
     }
 ]
