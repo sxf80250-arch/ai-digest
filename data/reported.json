@@ -711,5 +711,45 @@
         "repo":  "0xCoach/TaoSheng",
         "date":  "2026-11-17",
         "id":  1431782080
+    },
+    {
+        "repo":  "vercel-labs/ui",
+        "date":  "2026-11-18",
+        "id":  1434724807
+    },
+    {
+        "repo":  "sansan0/TrendRadar",
+        "date":  "2026-11-18",
+        "id":  974186260
+    },
+    {
+        "repo":  "HKUDS/LightRAG",
+        "date":  "2026-11-18",
+        "id":  866513204
+    },
+    {
+        "repo":  "hiyouga/LlamaFactory",
+        "date":  "2026-11-18",
+        "id":  646410686
+    },
+    {
+        "repo":  "NirDiamant/GenAI_Agents",
+        "date":  "2026-11-18",
+        "id":  854807707
+    },
+    {
+        "repo":  "openvinotoolkit/openvino",
+        "date":  "2026-11-18",
+        "id":  153097643
+    },
+    {
+        "repo":  "yamadashy/repomix",
+        "date":  "2026-11-18",
+        "id":  828119367
+    },
+    {
+        "repo":  "microsoft/graphrag",
+        "date":  "2026-11-18",
+        "id":  778431525
     }
 ]
