@@ -751,5 +751,20 @@
         "repo":  "microsoft/graphrag",
         "date":  "2026-11-18",
         "id":  778431525
+    },
+    {
+        "repo":  "thesysdev/opendashboards",
+        "date":  "2026-11-19",
+        "id":  1448618291
+    },
+    {
+        "repo":  "0xPlaygrounds/rig",
+        "date":  "2026-11-19",
+        "id":  810861466
+    },
+    {
+        "repo":  "dyad-sh/dyad",
+        "date":  "2026-11-19",
+        "id":  964395174
     }
 ]
