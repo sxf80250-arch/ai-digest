@@ -766,5 +766,20 @@
         "repo":  "dyad-sh/dyad",
         "date":  "2026-11-19",
         "id":  964395174
+    },
+    {
+        "repo":  "vercel-labs/agent-browser",
+        "date":  "2026-11-20",
+        "id":  1132001614
+    },
+    {
+        "repo":  "interfere-inc/landmines",
+        "date":  "2026-11-20",
+        "id":  1437323332
+    },
+    {
+        "repo":  "mankidev/codixel",
+        "date":  "2026-11-20",
+        "id":  1441146511
     }
 ]
