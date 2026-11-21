@@ -781,5 +781,15 @@
         "repo":  "mankidev/codixel",
         "date":  "2026-11-20",
         "id":  1441146511
+    },
+    {
+        "repo":  "vercel-labs/screen-relay",
+        "date":  "2026-11-21",
+        "id":  1436507514
+    },
+    {
+        "repo":  "enmerasoftware/ai-design-check",
+        "date":  "2026-11-21",
+        "id":  1436739802
     }
 ]
