@@ -791,5 +791,15 @@
         "repo":  "enmerasoftware/ai-design-check",
         "date":  "2026-11-21",
         "id":  1436739802
+    },
+    {
+        "repo":  "python001-dev/ai--manus",
+        "date":  "2026-11-22",
+        "id":  1456720350
+    },
+    {
+        "repo":  "context-dot-dev/enrichable",
+        "date":  "2026-11-22",
+        "id":  1439168024
     }
 ]
