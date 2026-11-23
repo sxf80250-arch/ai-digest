@@ -801,5 +801,40 @@
         "repo":  "context-dot-dev/enrichable",
         "date":  "2026-11-22",
         "id":  1439168024
+    },
+    {
+        "repo":  "NirDiamant/RAG_Techniques",
+        "date":  "2026-11-23",
+        "id":  828268839
+    },
+    {
+        "repo":  "MODSetter/SurfSense",
+        "date":  "2026-11-23",
+        "id":  835975784
+    },
+    {
+        "repo":  "aishwaryanr/awesome-generative-ai-guide",
+        "date":  "2026-11-23",
+        "id":  753750990
+    },
+    {
+        "repo":  "simstudioai/sim",
+        "date":  "2026-11-23",
+        "id":  912559512
+    },
+    {
+        "repo":  "agno-agi/agno",
+        "date":  "2026-11-23",
+        "id":  488641606
+    },
+    {
+        "repo":  "deepset-ai/haystack",
+        "date":  "2026-11-23",
+        "id":  221654678
+    },
+    {
+        "repo":  "run-llama/llama_index",
+        "date":  "2026-11-23",
+        "id":  560704231
     }
 ]
