@@ -836,5 +836,20 @@
         "repo":  "run-llama/llama_index",
         "date":  "2026-11-23",
         "id":  560704231
+    },
+    {
+        "repo":  "XinaTian/MROffice",
+        "date":  "2026-11-24",
+        "id":  1453006141
+    },
+    {
+        "repo":  "google-deepmind/robotics-antigravity-plugin",
+        "date":  "2026-11-24",
+        "id":  1460429608
+    },
+    {
+        "repo":  "SandyPandyMandy/ai--manus",
+        "date":  "2026-11-24",
+        "id":  1456717885
     }
 ]
