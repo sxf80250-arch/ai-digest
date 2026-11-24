@@ -138,7 +138,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment-retry.outputs.page_url }}
     steps:
       - name: Check out published site
         uses: actions/checkout@v5
@@ -153,6 +153,19 @@ jobs:
         with:
           path: site
 
+      - name: Allow artifact metadata to become visible
+        run: sleep 10
+
       - name: Deploy Pages
         id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Wait before deployment retry
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 10
+
+      - name: Retry Pages deployment
+        id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
