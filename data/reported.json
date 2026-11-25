@@ -851,5 +851,30 @@
         "repo":  "SandyPandyMandy/ai--manus",
         "date":  "2026-11-24",
         "id":  1456717885
+    },
+    {
+        "repo":  "kaomei/stickman-video-director",
+        "date":  "2026-11-25",
+        "id":  1321408165
+    },
+    {
+        "repo":  "drawdb-io/drawdb",
+        "date":  "2026-11-25",
+        "id":  667110339
+    },
+    {
+        "repo":  "Acly/krita-ai-diffusion",
+        "date":  "2026-11-25",
+        "id":  686161611
+    },
+    {
+        "repo":  "dipakkr/awesome-ai-engineering",
+        "date":  "2026-11-25",
+        "id":  149113514
+    },
+    {
+        "repo":  "1Panel-dev/MaxKB",
+        "date":  "2026-11-25",
+        "id":  691347156
     }
 ]
