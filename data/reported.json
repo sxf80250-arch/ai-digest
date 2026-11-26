@@ -876,5 +876,40 @@
         "repo":  "1Panel-dev/MaxKB",
         "date":  "2026-11-25",
         "id":  691347156
+    },
+    {
+        "repo":  "Significant-Gravitas/AutoGPT",
+        "date":  "2026-11-26",
+        "id":  614765452
+    },
+    {
+        "repo":  "dottxt-ai/outlines",
+        "date":  "2026-11-26",
+        "id":  615403340
+    },
+    {
+        "repo":  "labring/FastGPT",
+        "date":  "2026-11-26",
+        "id":  605673387
+    },
+    {
+        "repo":  "datawhalechina/llm-universe",
+        "date":  "2026-11-26",
+        "id":  711550638
+    },
+    {
+        "repo":  "Portkey-AI/gateway",
+        "date":  "2026-11-26",
+        "id":  682080300
+    },
+    {
+        "repo":  "codewhale-hq/Codewhale",
+        "date":  "2026-11-26",
+        "id":  1137711311
+    },
+    {
+        "repo":  "miurla/morphic",
+        "date":  "2026-11-26",
+        "id":  782539945
     }
 ]
