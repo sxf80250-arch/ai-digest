@@ -911,5 +911,30 @@
         "repo":  "miurla/morphic",
         "date":  "2026-11-26",
         "id":  782539945
+    },
+    {
+        "repo":  "alibaba/zvec",
+        "date":  "2026-11-27",
+        "id":  1110443421
+    },
+    {
+        "repo":  "eosphoros-ai/DB-GPT",
+        "date":  "2026-11-27",
+        "id":  627480054
+    },
+    {
+        "repo":  "milvus-io/milvus",
+        "date":  "2026-11-27",
+        "id":  208728772
+    },
+    {
+        "repo":  "NVIDIA-NeMo/Speech",
+        "date":  "2026-11-27",
+        "id":  200722670
+    },
+    {
+        "repo":  "The-Vibe-Company/quivr",
+        "date":  "2026-11-27",
+        "id":  640079149
     }
 ]
