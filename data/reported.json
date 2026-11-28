@@ -936,5 +936,20 @@
         "repo":  "The-Vibe-Company/quivr",
         "date":  "2026-11-27",
         "id":  640079149
+    },
+    {
+        "repo":  "opensetlabs/openset-llm",
+        "date":  "2026-11-28",
+        "id":  1456590729
+    },
+    {
+        "repo":  "yetone/magpie",
+        "date":  "2026-11-28",
+        "id":  1383809012
+    },
+    {
+        "repo":  "piomin/ai-software-factory",
+        "date":  "2026-11-28",
+        "id":  1463416046
     }
 ]
